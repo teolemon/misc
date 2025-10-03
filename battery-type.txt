@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Lithium-ion, AA batteries, Rechargeable Li-Po
+* Possible values: Battery chemistry and form factor
+* Source: Technical specifications, battery compartment label
+* en = battery type
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The type and chemistry of battery used to power the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Lithium-ion
+* example 2 = 4x AA batteries
+* example 3 = Rechargeable Li-Po
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

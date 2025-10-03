@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Solid, Striped, Floral, Geometric
+* Possible values: Pattern description or name
+* Source: Visual inspection, product description
+* en = pattern
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The decorative or functional design repeated on the product surface
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Solid
+* example 2 = Striped
+* example 3 = Floral
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

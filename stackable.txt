@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes, No, Stackable up to 5 units
+* Possible values: Yes, No, with maximum stacking limit
+* Source: Product specifications, storage guidelines
+* en = stackable
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether multiple units can be safely stacked on top of each other
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes
+* example 2 = No
+* example 3 = Stackable up to 5 high
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

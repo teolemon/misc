@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes - 5 positions, No, Height adjustable
+* Possible values: Yes, No, with adjustment type and range
+* Source: Product features, technical specifications
+* en = adjustable
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product has adjustable features or settings
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - height adjustable
+* example 2 = No
+* example 3 = 5 position adjustment
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

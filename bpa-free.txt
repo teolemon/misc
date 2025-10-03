@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: BPA-free, Contains BPA, BPA-free certified
+* Possible values: Yes, No
+* Source: Product label, material safety information
+* en = bpa free
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product contains no Bisphenol A, a chemical used in some plastics
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean
+* example 1 = BPA-free
+* example 2 = Contains BPA
+* example 3 = BPA-free certified
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

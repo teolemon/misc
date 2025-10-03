@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Red, Blue, Black, White, Multicolor
+* Possible values: Color name, hex code (#RRGGBB), RGB value, or descriptive term
+* Source: Visual inspection, product description, manufacturer specifications
+* en = color
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The visual appearance of the product in terms of hue, shade, or tint
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or color code
+* example 1 = Red
+* example 2 = #FF0000
+* example 3 = RGB(255,0,0)
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Box, Bottle, Bag, Blister pack, Can
+* Possible values: Description of packaging container or method
+* Source: Visual inspection, packaging specifications
+* en = packaging type
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The type of container or wrapping used to contain and protect the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Cardboard box
+* example 2 = Glass bottle
+* example 3 = Plastic bag
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

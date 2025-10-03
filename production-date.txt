@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 2024-01-15, January 2024, MFG 01/15/2024
+* Possible values: Date in ISO format (YYYY-MM-DD) or manufacturer format
+* Source: Product label, batch code, manufacturing stamp
+* en = production date
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The date on which the product was manufactured or produced
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = date
+* example 1 = 2024-01-15
+* example 2 = January 2024
+* example 3 = 01/15/2024
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

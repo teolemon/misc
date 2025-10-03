@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Procter & Gamble, Sony Corporation, Nestlé S.A.
+* Possible values: Company name that produces or assembles the product
+* Source: Product label, company information, regulatory documentation
+* en = manufacturer
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The entity or organization responsible for producing or assembling the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Procter & Gamble
+* example 2 = Sony Corporation
+* example 3 = Nestlé S.A.
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 1920x1080 (Full HD), 4K UHD, 1280x720
+* Possible values: Pixel dimensions (width x height)
+* Source: Display specifications, technical documentation
+* en = resolution
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The number of pixels that make up the display, expressed as width × height
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text (pixel dimensions)
+* example 1 = 1920x1080 Full HD
+* example 2 = 3840x2160 4K
+* example 3 = 2560x1440 QHD
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

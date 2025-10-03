@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Dairy-free, Contains milk, Lactose-free
+* Possible values: Yes, No, specific dairy component information
+* Source: Product label, ingredient list, allergen declaration
+* en = dairy free
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product contains no dairy or milk-derived ingredients
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Dairy-free
+* example 2 = Contains milk
+* example 3 = Lactose-free
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

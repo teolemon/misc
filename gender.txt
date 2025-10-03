@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Unisex, Men, Women, Boys, Girls
+* Possible values: Gender category or 'Unisex'
+* Source: Product marketing, sizing information
+* en = gender
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The intended gender demographic for the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Unisex
+* example 2 = Men
+* example 3 = Women
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

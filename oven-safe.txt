@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes up to 180°C, No, Oven safe to 200°C
+* Possible values: Yes/No with maximum temperature rating
+* Source: Product label, heat resistance specifications
+* en = oven safe
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can be safely used in an oven and the maximum temperature
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text with temperature
+* example 1 = Yes up to 180°C
+* example 2 = No
+* example 3 = Oven safe to 400°F
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

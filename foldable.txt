@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes, No, Collapsible
+* Possible values: Yes, No, Partially foldable
+* Source: Product design features, specifications
+* en = foldable
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can be folded for easier storage or transport
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - folds flat
+* example 2 = No
+* example 3 = Collapsible design
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

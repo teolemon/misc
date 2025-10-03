@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 2 hours, 30 minutes fast charge, Overnight charge
+* Possible values: Duration to full charge
+* Source: Technical specifications, charging instructions
+* en = charging time
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The time required to fully charge the product's battery
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = duration
+* example 1 = 2 hours
+* example 2 = 30 minutes (fast charge)
+* example 3 = 4-6 hours
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 10 hours, 500 charge cycles, Up to 2 days
+* Possible values: Duration or number of cycles
+* Source: Technical specifications, battery performance data
+* en = battery life
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The duration the product can operate on battery power or the number of charge cycles
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or duration
+* example 1 = 10 hours continuous use
+* example 2 = 500 charge cycles
+* example 3 = Up to 2 days standby
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

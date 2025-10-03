@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Fragrance-free, Unscented, Contains fragrance
+* Possible values: Yes, No
+* Source: Product label, ingredient list
+* en = fragrance free
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product contains no added fragrances or perfumes
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean
+* example 1 = Fragrance-free
+* example 2 = Unscented
+* example 3 = Contains fragrance
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

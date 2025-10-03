@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Contains nuts, Gluten-free, May contain traces of milk
+* Possible values: List of allergens present or allergen-free statement
+* Source: Product label, allergen declaration
+* en = allergens
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Substances in the product that may cause allergic reactions
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text list
+* example 1 = Contains nuts
+* example 2 = Gluten-free
+* example 3 = Contains milk and eggs
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

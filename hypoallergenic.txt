@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Hypoallergenic, Dermatologist tested, Not hypoallergenic
+* Possible values: Yes, No, testing certification
+* Source: Product label, dermatological testing
+* en = hypoallergenic
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product is formulated to minimize allergic reactions
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Hypoallergenic
+* example 2 = Dermatologist tested
+* example 3 = Allergy tested
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

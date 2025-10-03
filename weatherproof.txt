@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: All-weather rated, Indoor use only, Weather-resistant
+* Possible values: Yes, No, rating or certification
+* Source: Product specifications, environmental ratings
+* en = weatherproof
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can withstand various weather conditions
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = All-weather rated
+* example 2 = Indoor use only
+* example 3 = Weather-resistant
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

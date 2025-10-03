@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 2025-12-31, EXP 12/31/2025, Best before Dec 2025
+* Possible values: Date in ISO format (YYYY-MM-DD) or common date formats
+* Source: Product label, packaging, quality assurance documentation
+* en = expiration date
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The date after which the product should not be used or consumed for quality or safety reasons
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = date
+* example 1 = 2025-12-31
+* example 2 = 12/31/2025
+* example 3 = Dec 2025
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

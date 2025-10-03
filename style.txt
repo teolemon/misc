@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Modern, Classic, Contemporary, Vintage
+* Possible values: Descriptive style or design category
+* Source: Product description, design documentation
+* en = style
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The aesthetic or design approach of the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Modern
+* example 2 = Classic
+* example 3 = Contemporary
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes - iOS/Android app, No, Mobile app available
+* Possible values: Yes, No, platform compatibility
+* Source: Product features, mobile app availability
+* en = app controlled
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can be controlled via a smartphone or tablet application
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - iOS/Android
+* example 2 = No
+* example 3 = Dedicated mobile app
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Alexa compatible, Google Assistant, No voice control
+* Possible values: Yes/No, voice assistant platform
+* Source: Smart features, voice control capabilities
+* en = voice control
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product supports voice commands through virtual assistants
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Alexa compatible
+* example 2 = Google Assistant
+* example 3 = No voice control
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

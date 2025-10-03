@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes, No, Partially recyclable
+* Possible values: Boolean (Yes/No) or descriptive text
+* Source: Product packaging, recycling symbols, manufacturer information
+* en = recyclable
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product or its packaging can be processed and reused
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes
+* example 2 = No
+* example 3 = Partially
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

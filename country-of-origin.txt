@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Made in USA, Made in China, Made in Germany
+* Possible values: Country name or ISO country code
+* Source: Product label, customs documentation, manufacturer declaration
+* en = country of origin
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The country where the product was manufactured, produced, or grown
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or ISO code
+* example 1 = USA
+* example 2 = China
+* example 3 = Germany
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

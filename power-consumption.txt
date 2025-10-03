@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 60W, 1200 watts, 0.5kW
+* Possible values: Numeric value in watts (W) or kilowatts (kW)
+* Source: Energy label, technical specifications, user manual
+* en = power consumption
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The amount of electrical power used by the product during operation
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = numeric with unit
+* example 1 = 60W
+* example 2 = 1200 watts
+* example 3 = 0.5kW
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

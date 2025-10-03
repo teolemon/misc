@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes, No, Freezer safe
+* Possible values: Yes, No, with minimum temperature rating
+* Source: Product specifications, storage instructions
+* en = freezer safe
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can be safely stored or used in a freezer
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes
+* example 2 = No
+* example 3 = Freezer safe to -20°C
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

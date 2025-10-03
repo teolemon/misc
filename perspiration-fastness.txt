@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Example usage of Perspiration Fastness
+* Possible values: Possible values for perspiration-fastness
+* Source: Product specifications, technical documentation, manufacturer information
+* en = perspiration fastness
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Description of Perspiration Fastness
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or numeric
+* example 1 = Example 1 for perspiration-fastness
+* example 2 = Example 2 for perspiration-fastness
+* example 3 = Example 3 for perspiration-fastness
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

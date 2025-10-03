@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes - top rack only, No, Dishwasher safe
+* Possible values: Yes, No, Top rack only, Bottom rack only
+* Source: Product label, care instructions, manufacturer specifications
+* en = dishwasher safe
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product can be safely cleaned in a dishwasher
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - top rack only
+* example 2 = No
+* example 3 = Dishwasher safe
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

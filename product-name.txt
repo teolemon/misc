@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: iPhone 13 Pro, Classic White T-Shirt, Organic Whole Milk
+* Possible values: Descriptive text identifying the product
+* Source: Product packaging, product catalog, manufacturer listing
+* en = product name
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The specific name or title by which the product is identified and marketed
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = iPhone 13 Pro
+* example 2 = Classic White T-Shirt
+* example 3 = Organic Whole Milk
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.
