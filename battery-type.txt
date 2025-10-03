@@ -1,17 +1,17 @@
 == Documentation == 
-* Example of usages: Example usage of Battery Type
-* Possible values: Possible values for battery-type
-* Source: Product specifications, technical documentation, manufacturer information
+* Example of usages: Lithium-ion, AA batteries, Rechargeable Li-Po
+* Possible values: Battery chemistry and form factor
+* Source: Technical specifications, battery compartment label
 * en = battery type
 * xx = <!-- property names in some other languages -->
 * description = 
-* description_en = Description of Battery Type
+* description_en = The type and chemistry of battery used to power the product
 * description_xx = <!-- descriptions in other languages -->
 * status = <!-- leave this empty -->
-* datatype = text or numeric
-* example 1 = Example 1 for battery-type
-* example 2 = Example 2 for battery-type
-* example 3 = Example 3 for battery-type
+* datatype = text
+* example 1 = Lithium-ion
+* example 2 = 4x AA batteries
+* example 3 = Rechargeable Li-Po
 * topic = generic
 
 ===  Motivation ===

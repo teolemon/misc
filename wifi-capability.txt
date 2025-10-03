@@ -1,17 +1,17 @@
 == Documentation == 
-* Example of usages: Example usage of Wifi Capability
-* Possible values: Possible values for wifi-capability
-* Source: Product specifications, technical documentation, manufacturer information
+* Example of usages: Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), No Wi-Fi
+* Possible values: Wi-Fi standard (802.11a/b/g/n/ac/ax), Yes/No
+* Source: Technical specifications, connectivity features
 * en = wifi capability
 * xx = <!-- property names in some other languages -->
 * description = 
-* description_en = Description of Wifi Capability
+* description_en = The Wi-Fi wireless networking standard supported by the product
 * description_xx = <!-- descriptions in other languages -->
 * status = <!-- leave this empty -->
-* datatype = text or numeric
-* example 1 = Example 1 for wifi-capability
-* example 2 = Example 2 for wifi-capability
-* example 3 = Example 3 for wifi-capability
+* datatype = text
+* example 1 = Wi-Fi 6 (802.11ax)
+* example 2 = Wi-Fi 5 (802.11ac)
+* example 3 = Dual-band Wi-Fi
 * topic = generic
 
 ===  Motivation ===

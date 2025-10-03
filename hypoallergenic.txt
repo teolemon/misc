@@ -1,17 +1,17 @@
 == Documentation == 
-* Example of usages: Example usage of Hypoallergenic
-* Possible values: Possible values for hypoallergenic
-* Source: Product specifications, technical documentation, manufacturer information
+* Example of usages: Hypoallergenic, Dermatologist tested, Not hypoallergenic
+* Possible values: Yes, No, testing certification
+* Source: Product label, dermatological testing
 * en = hypoallergenic
 * xx = <!-- property names in some other languages -->
 * description = 
-* description_en = Description of Hypoallergenic
+* description_en = Indicates whether the product is formulated to minimize allergic reactions
 * description_xx = <!-- descriptions in other languages -->
 * status = <!-- leave this empty -->
-* datatype = text or numeric
-* example 1 = Example 1 for hypoallergenic
-* example 2 = Example 2 for hypoallergenic
-* example 3 = Example 3 for hypoallergenic
+* datatype = boolean or text
+* example 1 = Hypoallergenic
+* example 2 = Dermatologist tested
+* example 3 = Allergy tested
 * topic = generic
 
 ===  Motivation ===
