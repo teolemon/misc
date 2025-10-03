@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 25cm, 10 inches, 300mm
+* Possible values: Numeric value with unit (cm, m, in, ft, mm)
+* Source: Product measurements, technical specifications, packaging
+* en = depth
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The measurement of the product from front to back
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = numeric with unit
+* example 1 = 25cm
+* example 2 = 10 inches
+* example 3 = 300mm
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

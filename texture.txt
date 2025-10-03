@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Smooth, Rough, Ribbed, Soft
+* Possible values: Descriptive text of surface feel
+* Source: Tactile inspection, material specifications
+* en = texture
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The physical feel or appearance of the product surface
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Smooth
+* example 2 = Rough
+* example 3 = Soft
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

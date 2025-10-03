@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Example usage of Reversible
+* Possible values: Possible values for reversible
+* Source: Product specifications, technical documentation, manufacturer information
+* en = reversible
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Description of Reversible
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or numeric
+* example 1 = Example 1 for reversible
+* example 2 = Example 2 for reversible
+* example 3 = Example 3 for reversible
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

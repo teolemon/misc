@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Vanilla, Chocolate, Strawberry, Original
+* Possible values: Flavor description
+* Source: Product label, ingredient list
+* en = flavor
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The taste characteristic of the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Vanilla
+* example 2 = Chocolate
+* example 3 = Strawberry
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

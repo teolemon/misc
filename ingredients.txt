@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Water, Sugar, Salt, etc.
+* Possible values: List of components with optional percentages
+* Source: Product label, material composition tag
+* en = ingredients
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The substances or materials that make up the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text list
+* example 1 = Water, Sugar, Salt
+* example 2 = Cotton 95%, Elastane 5%
+* example 3 = Flour, Eggs, Milk
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.
