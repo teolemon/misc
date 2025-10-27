@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Small, Medium, Large, XL, 42
+* Possible values: Standard sizing notation (S/M/L/XL), numeric size, or custom sizing
+* Source: Size tag, product label, sizing chart
+* en = size
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The dimensional classification or scale of the product, often using standardized sizing systems
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or numeric
+* example 1 = Medium
+* example 2 = 42
+* example 3 = XL
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

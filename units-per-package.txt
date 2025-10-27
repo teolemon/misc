@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: 12 bottles, 6 cans, 100 sheets
+* Possible values: Numeric count of individual units
+* Source: Package label, product specifications
+* en = units per package
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The number of individual units contained within a single package
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = numeric
+* example 1 = 12
+* example 2 = 6
+* example 3 = 100
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

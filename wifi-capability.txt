@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), No Wi-Fi
+* Possible values: Wi-Fi standard (802.11a/b/g/n/ac/ax), Yes/No
+* Source: Technical specifications, connectivity features
+* en = wifi capability
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The Wi-Fi wireless networking standard supported by the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Wi-Fi 6 (802.11ax)
+* example 2 = Wi-Fi 5 (802.11ac)
+* example 3 = Dual-band Wi-Fi
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

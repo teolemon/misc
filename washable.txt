@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Machine washable at 30°C, Hand wash only, Dry clean only
+* Possible values: Machine washable, Hand wash, Dry clean, Not washable, with temperature specifications
+* Source: Care label, washing instructions tag, manufacturer guidelines
+* en = washable
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether and how the product can be cleaned with water and detergent
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Machine washable at 30°C
+* example 2 = Hand wash only
+* example 3 = Dry clean recommended
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

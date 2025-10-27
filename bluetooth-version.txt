@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Bluetooth 5.0, Bluetooth 4.2, BLE 5.2
+* Possible values: Version number (e.g., 5.0, 4.2, 5.2)
+* Source: Technical specifications, connectivity features
+* en = bluetooth version
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = The version of Bluetooth wireless technology supported by the product
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or numeric
+* example 1 = Bluetooth 5.0
+* example 2 = Bluetooth 4.2
+* example 3 = BLE 5.2
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

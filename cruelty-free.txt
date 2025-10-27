@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Cruelty-free certified, Not tested on animals, Leaping Bunny certified
+* Possible values: Yes, No, certification name
+* Source: Product label, cruelty-free certification
+* en = cruelty free
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product was developed without animal testing
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Cruelty-free
+* example 2 = Not tested on animals
+* example 3 = Leaping Bunny certified
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

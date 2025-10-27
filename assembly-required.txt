@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes, No, Partial assembly required
+* Possible values: Yes, No, Minimal assembly, Full assembly
+* Source: Product packaging, assembly instructions
+* en = assembly required
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product requires assembly before use
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - full assembly required
+* example 2 = No - ready to use
+* example 3 = Minimal assembly (10 minutes)
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

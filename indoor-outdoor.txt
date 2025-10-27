@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Indoor only, Outdoor use, Indoor/Outdoor
+* Possible values: Indoor, Outdoor, Indoor/Outdoor, All-weather
+* Source: Product specifications, usage guidelines
+* en = indoor outdoor
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product is suitable for indoor, outdoor, or both environments
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text
+* example 1 = Indoor only
+* example 2 = Outdoor use
+* example 3 = Indoor/Outdoor
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

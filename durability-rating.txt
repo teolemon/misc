@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Heavy-duty, Commercial grade, 5000 cycles
+* Possible values: Text description or numeric rating
+* Source: Product testing, manufacturer specifications
+* en = durability rating
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = An assessment of the product's ability to withstand wear, pressure, or damage over time
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = text or numeric
+* example 1 = Heavy-duty
+* example 2 = Commercial grade
+* example 3 = 5000 cycles
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.

@@ -1,0 +1,19 @@
+== Documentation == 
+* Example of usages: Yes - Wi-Fi enabled, No, Smart home compatible
+* Possible values: Yes, No, smart platform compatibility
+* Source: Product features, smart home integration
+* en = smart enabled
+* xx = <!-- property names in some other languages -->
+* description = 
+* description_en = Indicates whether the product has smart or IoT capabilities for remote control and automation
+* description_xx = <!-- descriptions in other languages -->
+* status = <!-- leave this empty -->
+* datatype = boolean or text
+* example 1 = Yes - Alexa compatible
+* example 2 = No
+* example 3 = Google Home enabled
+* topic = generic
+
+===  Motivation ===
+
+This attribute is essential for product classification and comparison across multiple product categories. It provides valuable information that helps consumers make informed purchasing decisions and enables better product data management.
