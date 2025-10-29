@@ -1,0 +1,4199 @@
+# QFDMO Categories Taxonomy
+# Generated from qfdmo.json
+# QFDMO: Où et comment donner, réparer et recycler tous vos objets
+# https://www.ecosystem.eco/fr/qfdmo
+#
+# Format:
+# - Each category starts with its code
+# - fr: French name (libelle from the data)
+# - Items under each category are listed with their codes
+# - Parent-child relationships use < fr: Parent Category
+#
+
+#
+fr: Abj Electrique
+code: abj_electrique
+# Items in this category: 9
+
+#
+fr: Abj Outillage du Peintre Usage
+code: abj_outillage_du_peintre_usage
+# Items in this category: 1
+
+#
+fr: Accessoire et Meuble de Jardin
+code: accessoire_et_meuble_de_jardin
+# Items in this category: 3
+
+#
+fr: Ampoule
+code: ampoule
+# Items in this category: 1
+
+#
+fr: Autre Equipement Electronique
+code: autre_equipement_electronique
+# Items in this category: 17
+
+#
+fr: Batteries et Piles Portables
+code: batteries_et_piles_portables
+# Items in this category: 2
+
+#
+fr: Bijou et Montre
+code: bijou_et_montre
+# Items in this category: 6
+
+#
+fr: Bouchons en Liege
+code: bouchons_en_liege
+# Items in this category: 1
+
+#
+fr: Cartouches
+code: cartouches
+# Items in this category: 1
+
+#
+fr: CD DVD et Jeu Video
+code: cd_dvd_et_jeu_video
+# Items in this category: 10
+
+#
+fr: Chaussures
+code: chaussures
+# Items in this category: 20
+
+#
+fr: Dasri
+code: dasri
+# Items in this category: 1
+
+#
+fr: Dechets de Peintures Vernis Encres et Colles Produits Chimiques
+code: dechets_de_peintures_vernis_encres_et_colles_produits_chimiques
+# Items in this category: 1
+
+#
+fr: Dechets de Produits Chimiques
+code: dechets_de_produits_chimiques
+# Items in this category: 1
+
+#
+fr: Dechets de Produits Chimiques Acides
+code: dechets_de_produits_chimiques_acides
+# Items in this category: 1
+
+#
+fr: Dechets de Produits Chimiques Basiques
+code: dechets_de_produits_chimiques_basiques
+# Items in this category: 1
+
+#
+fr: Dechets Phytosanitaires Menagers Produits Chimiques
+code: dechets_phytosanitaires_menagers_produits_chimiques
+# Items in this category: 1
+
+#
+fr: Decoration
+code: decoration
+# Items in this category: 62
+
+#
+fr: Ecran
+code: ecran
+# Items in this category: 3
+
+#
+fr: Gros Electromenager Hors Refrigerant
+code: gros_electromenager_hors_refrigerant
+# Items in this category: 16
+
+#
+fr: Gros Electromenager Refrigerant
+code: gros_electromenager_refrigerant
+# Items in this category: 7
+
+#
+fr: Instrument de Musique
+code: instrument_de_musique
+# Items in this category: 11
+
+#
+fr: Jels Mobilite Electrique
+code: jels_mobilite_electrique
+# Items in this category: 4
+
+#
+fr: Jouet
+code: jouet
+# Items in this category: 51
+
+#
+fr: Linge de Maison
+code: linge_de_maison
+# Items in this category: 12
+
+#
+fr: Livre
+code: livre
+# Items in this category: 2
+
+#
+fr: Luminaire
+code: luminaire
+# Items in this category: 7
+
+#
+fr: Lunettes de Vue Aides Techniques
+code: lunettes_de_vue_aides_techniques
+# Items in this category: 1
+
+#
+fr: Machines et Appareils Motorises Thermiques
+code: machines_et_appareils_motorises_thermiques
+# Items in this category: 8
+
+#
+fr: Maroquinerie
+code: maroquinerie
+# Items in this category: 10
+
+#
+fr: Materiau du Batiment Reemployable
+code: materiau_du_batiment_reemployable
+# Items in this category: 9
+
+#
+fr: Materiel de Sport Hors Velo
+code: materiel_de_sport_hors_velo
+# Items in this category: 211
+
+#
+fr: Materiel Hifi et Video
+code: materiel_hifi_et_video
+# Items in this category: 11
+
+#
+fr: Materiel Informatique
+code: materiel_informatique
+# Items in this category: 5
+
+#
+fr: Materiel Medical
+code: materiel_medical
+# Items in this category: 2
+
+#
+fr: Materiel Photo et Cinema
+code: materiel_photo_et_cinema
+# Items in this category: 3
+
+#
+fr: Medicaments
+code: medicaments
+# Items in this category: 2
+
+#
+fr: Membranes Bitumineuses Pmcb Produits et Materiaux de Construction du Batiment
+code: membranes_bitumineuses_pmcb_produits_et_materiaux_de_construction_du_batiment
+# Items in this category: 1
+
+#
+fr: Meuble
+code: meuble
+# Items in this category: 172
+
+#
+fr: Outil de Bricolage et Jardinage
+code: outil_de_bricolage_et_jardinage
+# Items in this category: 32
+
+#
+fr: Panneaux Photovoltaiques
+code: panneaux_photovoltaiques
+# Items in this category: 1
+
+#
+fr: Petit Electromenager
+code: petit_electromenager
+# Items in this category: 64
+
+#
+fr: Petits Appareils Extincteurs
+code: petits_appareils_extincteurs
+# Items in this category: 1
+
+#
+fr: Pneu
+code: pneu
+# Items in this category: 1
+
+#
+fr: Produits Chimiques Solvants
+code: produits_chimiques_solvants
+# Items in this category: 1
+
+#
+fr: Produits Pyrotechniques
+code: produits_pyrotechniques
+# Items in this category: 1
+
+#
+fr: Puericulture
+code: puericulture
+# Items in this category: 4
+
+#
+fr: Smartphone Tablette et Console
+code: smartphone_tablette_et_console
+# Items in this category: 5
+
+#
+fr: Vaisselle
+code: vaisselle
+# Items in this category: 15
+
+#
+fr: Velo
+code: velo
+# Items in this category: 7
+
+#
+fr: Vetement
+code: vetement
+# Items in this category: 47
+
+# DETAILED ITEMS LIST
+#
+
+## Abj Electrique (abj_electrique)
+# 9 items
+
+< fr: Abj Electrique
+fr: Disqueuse
+code: disqueuse
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Outil électrique (bricolage, jardinage)
+code: outil_electrique_bricolage_jardinage
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Perceuse électrique
+code: perceuse
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Ponceuse électrique
+code: ponceuse
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Scie circulaire
+code: scie_circulaire
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Taille-haie électrique
+code: taille_haie
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Tondeuse à gazon électrique
+code: tondeuse_a_gazon_electrique
+
+< fr: Abj Electrique
+fr: Tronçonneuse électrique
+code: tronconneuse
+identifiant_qfdmod: 243
+
+< fr: Abj Electrique
+fr: Visseuse électrique
+code: visseuse
+identifiant_qfdmod: 243
+
+
+## Abj Outillage du Peintre Usage (abj_outillage_du_peintre_usage)
+# 1 items
+
+< fr: Abj Outillage du Peintre Usage
+fr: Outillage du peintre
+code: outillage_du_peintre
+
+
+## Accessoire et Meuble de Jardin (accessoire_et_meuble_de_jardin)
+# 3 items
+
+< fr: Accessoire et Meuble de Jardin
+fr: Accessoire de jardin
+code: accessoire_de_jardin
+
+< fr: Accessoire et Meuble de Jardin
+fr: Meuble de jardin
+code: meuble_de_jardin
+
+< fr: Accessoire et Meuble de Jardin
+fr: Parasol
+code: parasol
+
+
+## Ampoule (ampoule)
+# 1 items
+
+< fr: Ampoule
+fr: Ampoule
+code: ampoule
+identifiant_qfdmod: 410
+
+
+## Autre Equipement Electronique (autre_equipement_electronique)
+# 17 items
+
+< fr: Autre Equipement Electronique
+fr: Accessoire automobile (et deux-roues) électronique
+code: accessoire_automobile_et_deux_roues_electronique
+identifiant_qfdmod: 1
+
+< fr: Autre Equipement Electronique
+fr: Allume-cigare
+code: allume_cigare
+identifiant_qfdmod: 1
+
+< fr: Autre Equipement Electronique
+fr: Appareil électronique
+code: appareil_electronique
+
+< fr: Autre Equipement Electronique
+fr: Assistant de conduite
+code: assistant_de_conduite
+
+< fr: Autre Equipement Electronique
+fr: Autre équipement électronique
+code: autre_equipement_electronique
+
+< fr: Autre Equipement Electronique
+fr: Calculatrice
+code: calculatrice
+identifiant_qfdmod: 414
+
+< fr: Autre Equipement Electronique
+fr: Chargeur
+code: chargeur
+identifiant_qfdmod: 94
+
+< fr: Autre Equipement Electronique
+fr: Cigarette électronique
+code: cigarette_electronique
+identifiant_qfdmod: 100
+
+< fr: Autre Equipement Electronique
+fr: Détecteur radar
+code: detecteur_radar
+identifiant_qfdmod: 1
+
+< fr: Autre Equipement Electronique
+fr: GPS
+code: gps
+identifiant_qfdmod: 177
+
+< fr: Autre Equipement Electronique
+fr: Montre électronique
+code: montre_electronique
+identifiant_qfdmod: 229
+
+< fr: Autre Equipement Electronique
+fr: Radar de stationnement
+code: radar_de_stationnement
+identifiant_qfdmod: 1
+
+< fr: Autre Equipement Electronique
+fr: Thermomètre digital
+code: thermometre_digital
+identifiant_qfdmod: 342
+
+< fr: Autre Equipement Electronique
+fr: Transformateur électrique
+code: transformateur_electrique
+identifiant_qfdmod: 350
+
+< fr: Autre Equipement Electronique
+fr: Téléphone fixe
+code: telephone_fixe
+identifiant_qfdmod: 333
+
+< fr: Autre Equipement Electronique
+fr: Vieil appareil électrique ou électronique
+code: vieil_appareil_electrique_ou_electronique
+identifiant_qfdmod: 365
+
+< fr: Autre Equipement Electronique
+fr: Voiture de course électrique (jouet)
+code: voiture_de_course_electrique_jouet
+identifiant_qfdmod: 367
+
+
+## Batteries et Piles Portables (batteries_et_piles_portables)
+# 2 items
+
+< fr: Batteries et Piles Portables
+fr: Accumulateur
+code: accumulateur
+
+< fr: Batteries et Piles Portables
+fr: Batteries & piles portables
+code: batteries_et_piles_portables
+
+
+## Bijou et Montre (bijou_et_montre)
+# 6 items
+
+< fr: Bijou et Montre
+fr: Bijou
+code: bijou
+
+< fr: Bijou et Montre
+fr: Boîte à bijoux
+code: boite_a_bijoux
+
+< fr: Bijou et Montre
+fr: Bracelet (bijou)
+code: bracelet_bijou
+
+< fr: Bijou et Montre
+fr: Collier
+code: collier
+
+< fr: Bijou et Montre
+fr: Ecrin à bijoux
+code: ecrin_a_bijoux
+
+< fr: Bijou et Montre
+fr: Montre
+code: montre
+
+
+## Bouchons en Liege (bouchons_en_liege)
+# 1 items
+
+< fr: Bouchons en Liege
+fr: Bouchon en liège
+code: bouchons_en_liege
+identifiant_qfdmod: 62
+
+
+## Cartouches (cartouches)
+# 1 items
+
+< fr: Cartouches
+fr: Cartouches d'encre
+code: cartouches
+
+
+## CD DVD et Jeu Video (cd_dvd_et_jeu_video)
+# 10 items
+
+< fr: CD DVD et Jeu Video
+fr: Blu-ray
+code: blu_ray
+
+< fr: CD DVD et Jeu Video
+fr: CD
+code: cd
+
+< fr: CD DVD et Jeu Video
+fr: CD-ROM
+code: cd_rom
+
+< fr: CD DVD et Jeu Video
+fr: Cassette
+code: cassette
+
+< fr: CD DVD et Jeu Video
+fr: DVD
+code: dvd
+
+< fr: CD DVD et Jeu Video
+fr: Disque (album)
+code: disque_album
+
+< fr: CD DVD et Jeu Video
+fr: Disques vinyles
+code: vinyles
+
+< fr: CD DVD et Jeu Video
+fr: Jeu vidéo (cassette ou cartouche DS, PS3, Xbox...)
+code: jeu_video_cassette_ou_cartouche_ds_ps3_xbox
+identifiant_qfdmod: 193
+
+< fr: CD DVD et Jeu Video
+fr: jeu de ps2
+code: jeu_de_ps2
+identifiant_qfdmod: 193
+
+< fr: CD DVD et Jeu Video
+fr: jeu de ps4
+code: jeu_de_ps4
+identifiant_qfdmod: 193
+
+
+## Chaussures (chaussures)
+# 20 items
+
+< fr: Chaussures
+fr: Après-ski
+code: apres_ski
+
+< fr: Chaussures
+fr: Babouches
+code: babouches
+
+< fr: Chaussures
+fr: Ballerines
+code: ballerines
+
+< fr: Chaussures
+fr: Baskets
+code: baskets
+
+< fr: Chaussures
+fr: Boots
+code: boots
+
+< fr: Chaussures
+fr: Bottes
+code: bottes
+
+< fr: Chaussures
+fr: Bottines
+code: bottines
+
+< fr: Chaussures
+fr: Chaussons
+code: chaussons
+
+< fr: Chaussures
+fr: Chaussures
+code: chaussures
+identifiant_qfdmod: 96
+
+< fr: Chaussures
+fr: Escarpins
+code: escarpins
+
+< fr: Chaussures
+fr: Mocassins
+code: mocassins
+
+< fr: Chaussures
+fr: Nu-pieds
+code: nu_pieds
+
+< fr: Chaussures
+fr: Pantoufles
+code: pantoufles
+
+< fr: Chaussures
+fr: Sabots
+code: sabots
+
+< fr: Chaussures
+fr: Sandales
+code: sandales
+
+< fr: Chaussures
+fr: Savattes
+code: savattes
+
+< fr: Chaussures
+fr: Snow-boot
+code: snow_boot
+
+< fr: Chaussures
+fr: Souliers
+code: souliers
+
+< fr: Chaussures
+fr: Tennis
+code: tennis
+
+< fr: Chaussures
+fr: Tongs
+code: tongs
+
+
+## Dasri (dasri)
+# 1 items
+
+< fr: Dasri
+fr: Cathéter
+code: catheter
+identifiant_qfdmod: 91
+
+
+## Dechets de Peintures Vernis Encres et Colles Produits Chimiques (dechets_de_peintures_vernis_encres_et_colles_produits_chimiques)
+# 1 items
+
+< fr: Dechets de Peintures Vernis Encres et Colles Produits Chimiques
+fr: Déchets de peintures, vernis, encres et colles
+code: pchim_dechets_de_peintures_vernis_encres_et_colles
+
+
+## Dechets de Produits Chimiques (dechets_de_produits_chimiques)
+# 1 items
+
+< fr: Dechets de Produits Chimiques
+fr: Déchets de produits chimiques
+code: pchim_dechets_de_produits_chimiques
+
+
+## Dechets de Produits Chimiques Acides (dechets_de_produits_chimiques_acides)
+# 1 items
+
+< fr: Dechets de Produits Chimiques Acides
+fr: Déchets de produits chimiques acides
+code: pchim_dechets_de_produits_chimiques_acides
+
+
+## Dechets de Produits Chimiques Basiques (dechets_de_produits_chimiques_basiques)
+# 1 items
+
+< fr: Dechets de Produits Chimiques Basiques
+fr: Déchets de produits chimiques basiques
+code: pchim_dechets_de_produits_chimiques_basiques
+
+
+## Dechets Phytosanitaires Menagers Produits Chimiques (dechets_phytosanitaires_menagers_produits_chimiques)
+# 1 items
+
+< fr: Dechets Phytosanitaires Menagers Produits Chimiques
+fr: Déchets phytosanitaires ménagers
+code: pchim_dechets_phytosanitaires_menagers
+
+
+## Decoration (decoration)
+# 62 items
+
+< fr: Decoration
+fr: Bande d'accrochage de rideau
+code: bande_d_accrochage_de_rideau
+
+< fr: Decoration
+fr: Bande d'ancrage de rideau
+code: bande_d_ancrage_de_rideau
+
+< fr: Decoration
+fr: Bougie
+code: bougie
+identifiant_qfdmod: 64
+
+< fr: Decoration
+fr: Bouton de tringle à rideau
+code: bouton_de_tringle_a_rideau
+
+< fr: Decoration
+fr: Cage pour animaux
+code: cage_pour_animaux
+identifiant_qfdmod: 400
+
+< fr: Decoration
+fr: Carpette
+code: carpette
+
+< fr: Decoration
+fr: Chandelle
+code: chandelle
+identifiant_qfdmod: 64
+
+< fr: Decoration
+fr: Chemin de table
+code: chemin_de_table
+
+< fr: Decoration
+fr: Cierge
+code: cierge
+identifiant_qfdmod: 64
+
+< fr: Decoration
+fr: Couette
+code: couette
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Coussin
+code: coussin
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Doublure occultante thermique
+code: doublure_occultante_thermique
+
+< fr: Decoration
+fr: Décoration
+code: decoration
+
+< fr: Decoration
+fr: Edredon
+code: edredon
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Fausse peau de mouton
+code: fausse_peau_de_mouton
+
+< fr: Decoration
+fr: Gigoteuse
+code: gigoteuse
+
+< fr: Decoration
+fr: Guirlande décoration en tissu
+code: guirlande_decoration_en_tissu
+
+< fr: Decoration
+fr: Housse (décoration)
+code: housse_decoration
+
+< fr: Decoration
+fr: Macramé
+code: macrame
+
+< fr: Decoration
+fr: Miroir (glace)
+code: miroir_glace
+identifiant_qfdmod: 227
+
+< fr: Decoration
+fr: Moquette
+code: moquette
+identifiant_qfdmod: 231
+
+< fr: Decoration
+fr: Mouchoir en tissu
+code: mouchoir_en_tissu
+
+< fr: Decoration
+fr: Moustiquaire
+code: moustiquaire
+
+< fr: Decoration
+fr: Natte
+code: natte
+
+< fr: Decoration
+fr: Niche
+code: niche
+identifiant_qfdmod: 442
+
+< fr: Decoration
+fr: Oreiller
+code: oreiller
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Paillasson
+code: paillasson
+
+< fr: Decoration
+fr: Panier pour animaux
+code: panier_pour_animaux
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Panneau japonais
+code: panneau_japonais
+
+< fr: Decoration
+fr: Peau de bête
+code: peau_de_bete
+
+< fr: Decoration
+fr: Polochon
+code: polochon
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Pot de fleurs
+code: pot_de_fleurs
+
+< fr: Decoration
+fr: Produit d'ameublement rembourré
+code: produit_d_ameublement_rembourre
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Rideau
+code: rideau
+
+< fr: Decoration
+fr: Sac de couchage
+code: sac_de_couchage
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Set d'angle
+code: set_d_angle
+
+< fr: Decoration
+fr: Set de table
+code: set_de_table
+
+< fr: Decoration
+fr: Sous-nappe
+code: sous_nappe
+
+< fr: Decoration
+fr: Store
+code: store
+
+< fr: Decoration
+fr: Structure de penderie
+code: structure_de_penderie
+
+< fr: Decoration
+fr: Support de fixation (rideau, penderie)
+code: support_de_fixation_rideau_penderie
+
+< fr: Decoration
+fr: Surmatelas
+code: surmatelas
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Tablier
+code: tablier
+
+< fr: Decoration
+fr: Tapis
+code: tapis
+identifiant_qfdmod: 424
+
+< fr: Decoration
+fr: Tapis d'éveil
+code: tapis_d_eveil
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Thibaude
+code: thibaude
+
+< fr: Decoration
+fr: Tissu mural
+code: tissu_mural
+
+< fr: Decoration
+fr: Toile tendue
+code: toile_tendue
+
+< fr: Decoration
+fr: Tour de lit
+code: tour_de_lit
+
+< fr: Decoration
+fr: Traversin
+code: traversin
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Tringle à rideau
+code: tringle_a_rideau
+
+< fr: Decoration
+fr: Turbulette
+code: turbulette
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: Verre (ayant contenu une bougie)
+code: verre_ayant_contenu_une_bougie
+identifiant_qfdmod: 361
+
+< fr: Decoration
+fr: Voilages
+code: voilages
+
+< fr: Decoration
+fr: Voile d'ombrage
+code: voile_d_ombrage
+
+< fr: Decoration
+fr: Volière
+code: voliere
+
+< fr: Decoration
+fr: coussin d'allaitement
+code: coussin_d_allaitement
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: coussin d'assise ou de dossier
+code: coussin_d_assise_ou_de_dossier
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: coussin pour animaux
+code: coussin_pour_animaux
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: housse rembourrée (chaise, canapé)
+code: housse_rembourree_chaise_canape
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: oreiller ergonomique
+code: oreiller_ergonomique
+identifiant_qfdmod: 408
+
+< fr: Decoration
+fr: tour de lit rembourré
+code: tour_de_lit_rembourre
+identifiant_qfdmod: 408
+
+
+## Ecran (ecran)
+# 3 items
+
+< fr: Ecran
+fr: Ecran
+code: ecran
+
+< fr: Ecran
+fr: TV
+code: tv
+identifiant_qfdmod: 335
+
+< fr: Ecran
+fr: Télévision
+code: television
+identifiant_qfdmod: 335
+
+
+## Gros Electromenager Hors Refrigerant (gros_electromenager_hors_refrigerant)
+# 16 items
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Aspirateur
+code: aspirateur
+identifiant_qfdmod: 24
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Chauffage électrique
+code: chauffage_electrique
+identifiant_qfdmod: 291
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Chauffe-eau
+code: chauffe_eau
+identifiant_qfdmod: 95
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Cuisinière électrique
+code: cuisiniere_electrique
+identifiant_qfdmod: 118
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Equipement d'entretien
+code: equipement_d_entretien
+identifiant_qfdmod: 24
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Four électrique
+code: four_electrique
+identifiant_qfdmod: 163
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Gazinière
+code: gaziniere
+identifiant_qfdmod: 173
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Gros appareil électroménager (hors froid)
+code: gros_appareil_electromenager_hors_froid
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Halogène
+code: halogene
+identifiant_qfdmod: 183
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Hotte
+code: hotte
+identifiant_qfdmod: 180
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Lave-linge
+code: lave_linge
+identifiant_qfdmod: 211
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Lave-vaisselle
+code: lave_vaisselle
+identifiant_qfdmod: 180
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Machine à laver
+code: machine_a_laver
+identifiant_qfdmod: 211
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Plaque de cuisson
+code: plaque_de_cuisson
+identifiant_qfdmod: 180
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Radiateur électrique
+code: radiateur_electrique
+identifiant_qfdmod: 291
+
+< fr: Gros Electromenager Hors Refrigerant
+fr: Sèche-linge
+code: seche_linge
+identifiant_qfdmod: 180
+
+
+## Gros Electromenager Refrigerant (gros_electromenager_refrigerant)
+# 7 items
+
+< fr: Gros Electromenager Refrigerant
+fr: Climatiseur
+code: climatiseur
+identifiant_qfdmod: 439
+
+< fr: Gros Electromenager Refrigerant
+fr: Congélateur
+code: congelateur
+
+< fr: Gros Electromenager Refrigerant
+fr: Freezer
+code: freezer
+
+< fr: Gros Electromenager Refrigerant
+fr: Frigidaire
+code: frigidaire
+
+< fr: Gros Electromenager Refrigerant
+fr: Frigo
+code: frigo
+
+< fr: Gros Electromenager Refrigerant
+fr: Gros appareil électroménager (froid)
+code: gros_appareil_electromenager_froid
+
+< fr: Gros Electromenager Refrigerant
+fr: Réfrigérateur
+code: refrigerateur
+identifiant_qfdmod: 295
+
+
+## Instrument de Musique (instrument_de_musique)
+# 11 items
+
+< fr: Instrument de Musique
+fr: Guitare électrique
+code: guitare_electrique
+
+< fr: Instrument de Musique
+fr: Instrument de musique
+code: instrument_de_musique
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: Piano électrique
+code: piano_electrique
+
+< fr: Instrument de Musique
+fr: Synthétiseur
+code: synthetiseur
+
+< fr: Instrument de Musique
+fr: flûte
+code: flute
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: guitare acoustique
+code: guitare_acoustique
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: instrument à cuivre
+code: instrument_a_cuivre
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: instrument à vent
+code: instrument_a_vent
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: piano
+code: piano
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: saxophone
+code: saxophone
+identifiant_qfdmod: 441
+
+< fr: Instrument de Musique
+fr: violon
+code: violon
+identifiant_qfdmod: 441
+
+
+## Jels Mobilite Electrique (jels_mobilite_electrique)
+# 4 items
+
+< fr: Jels Mobilite Electrique
+fr: Gyroroue électrique
+code: gyroroue_lectrique
+
+< fr: Jels Mobilite Electrique
+fr: Hoverboard électrique
+code: hoverboard_electrique
+
+< fr: Jels Mobilite Electrique
+fr: Train électrique (jouet)
+code: train_electrique_jouet
+identifiant_qfdmod: 349
+
+< fr: Jels Mobilite Electrique
+fr: Trottinette électrique
+code: trotinette_lectrique
+
+
+## Jouet (jouet)
+# 51 items
+
+< fr: Jouet
+fr: Accessoires pour poupon ou poupée
+code: accessoires_pour_poupon_ou_poupee
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Arme factice (jouet)
+code: arme_factice_jouet
+
+< fr: Jouet
+fr: Articles de sport d'extérieur pour enfant (jouet : raquette, boule de pétanque en plastique...)
+code: articles_de_sport_d_exterieur_pour_enfant_jouet
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Babyfoot pour enfant (jouet)
+code: babyfoot_pour_enfant_jouet
+
+< fr: Jouet
+fr: Ballon (jouet)
+code: ballon_jouet
+
+< fr: Jouet
+fr: Bateau (jouet)
+code: bateau_jouet
+
+< fr: Jouet
+fr: Bicyclette enfant (jouet)
+code: bicyclette_enfant_jouet
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Camion non motorisé
+code: camion_non_motorise
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Carte à collectionner
+code: carte_a_collectionner
+
+< fr: Jouet
+fr: Casse-tête
+code: casse_tete
+
+< fr: Jouet
+fr: Costume d'enfant
+code: costume_d_enfant
+
+< fr: Jouet
+fr: Draisienne
+code: draisienne
+
+< fr: Jouet
+fr: Echasse
+code: echasse
+
+< fr: Jouet
+fr: Ensemble cosmétique pour enfant (jouet)
+code: ensemble_cosmetique_pour_enfant_jouet
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Farces et attrapes
+code: farces_et_attrapes
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Figurine
+code: figurine
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Instrument de musique jouet
+code: instrument_de_musique_jouet
+
+< fr: Jouet
+fr: Jeu
+code: jeu
+
+< fr: Jouet
+fr: Jeu de plage
+code: jeu_de_plage
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Jeu de sable (seau, pelle, râteau...)
+code: jeu_de_sable
+
+< fr: Jouet
+fr: Jeu de société
+code: jeu_de_societe
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Jouet
+code: jouet
+
+< fr: Jouet
+fr: Jouet (non électronique)
+code: jouet_non_electronique
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Loisirs créatifs pour enfants (jouet)
+code: loisirs_creatifs_pour_enfants_jouet
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Luge d'enfant (jouet)
+code: luge_d_enfant_jouet
+
+< fr: Jouet
+fr: Maison de jardin pour enfant
+code: maison_de_jardin_pour_enfant
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Maison de poupée
+code: maison_de_poupee
+
+< fr: Jouet
+fr: Maquette
+code: maquette
+
+< fr: Jouet
+fr: Marionnette
+code: marionnette
+
+< fr: Jouet
+fr: Mobile
+code: mobile
+
+< fr: Jouet
+fr: Mobilier de poupée
+code: mobilier_de_poupee
+
+< fr: Jouet
+fr: Molkky
+code: molkky
+
+< fr: Jouet
+fr: Pataugette
+code: pataugette
+
+< fr: Jouet
+fr: Pelle à neige (luge)
+code: pelle_a_neige_luge
+
+< fr: Jouet
+fr: Peluche
+code: peluche
+
+< fr: Jouet
+fr: Pistolet à eau (jouet)
+code: pistolet_a_eau_jouet
+
+< fr: Jouet
+fr: Porteur (jouet)
+code: porteur_jouet
+
+< fr: Jouet
+fr: Poupon
+code: poupon
+
+< fr: Jouet
+fr: Poupée
+code: poupee
+
+< fr: Jouet
+fr: Poupée mannequin
+code: poupee_mannequin
+
+< fr: Jouet
+fr: Puzzle
+code: puzzle
+
+< fr: Jouet
+fr: Pâte à modeler
+code: pate_a_modeler
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Skateboard d'enfant (jouet)
+code: skateboard_d_enfant_jouet
+
+< fr: Jouet
+fr: Toboggan
+code: toboggan
+
+< fr: Jouet
+fr: Trottinette enfant (jouet)
+code: trottinette_enfant_jouet
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Vignette à collectionner
+code: vignette_a_collectionner
+
+< fr: Jouet
+fr: Voiture (jouet)
+code: voiture_jouet
+
+< fr: Jouet
+fr: Véhicule miniature
+code: vehicule_miniature
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: Véhicule à friction
+code: vehicule_a_friction
+
+< fr: Jouet
+fr: Vêtements de poupon ou poupée
+code: vetements_de_poupon_ou_poupee
+identifiant_qfdmod: 194
+
+< fr: Jouet
+fr: tricycle enfant (jouet)
+code: tricycle_enfant_jouet
+
+
+## Linge de Maison (linge_de_maison)
+# 12 items
+
+< fr: Linge de Maison
+fr: Alèse
+code: alese
+
+< fr: Linge de Maison
+fr: Drap de plage
+code: drap_de_plage
+
+< fr: Linge de Maison
+fr: Draps
+code: draps
+
+< fr: Linge de Maison
+fr: Linge de maison
+code: linge_de_maison
+identifiant_qfdmod: 203
+
+< fr: Linge de Maison
+fr: Nappe
+code: nappe
+
+< fr: Linge de Maison
+fr: Parure de lit
+code: parure_de_lit
+
+< fr: Linge de Maison
+fr: Protège-matelas
+code: protege_matelas
+
+< fr: Linge de Maison
+fr: Serviette de bain
+code: serviette_de_bain
+
+< fr: Linge de Maison
+fr: Serviette en tissu
+code: serviette_en_tissu
+identifiant_qfdmod: 317
+
+< fr: Linge de Maison
+fr: Taie d'oreiller
+code: taie_d_oreiller
+
+< fr: Linge de Maison
+fr: Tapis de bain
+code: tapis_de_bain
+
+< fr: Linge de Maison
+fr: Torchon
+code: torchon
+
+
+## Livre (livre)
+# 2 items
+
+< fr: Livre
+fr: Bande-dessinée (album)
+code: bande_dessinee_album
+identifiant_qfdmod: 208
+
+< fr: Livre
+fr: Livre
+code: livre
+identifiant_qfdmod: 208
+
+
+## Luminaire (luminaire)
+# 7 items
+
+< fr: Luminaire
+fr: LED
+code: led
+identifiant_qfdmod: 201
+
+< fr: Luminaire
+fr: Lampe
+code: lampe
+
+< fr: Luminaire
+fr: Luminaire
+code: luminaire
+
+< fr: Luminaire
+fr: Lustre
+code: lustre
+identifiant_qfdmod: 198
+
+< fr: Luminaire
+fr: Néon
+code: neon
+identifiant_qfdmod: 352
+
+< fr: Luminaire
+fr: Plafonnier
+code: plafonnier
+
+< fr: Luminaire
+fr: Tube fluorescent
+code: tube_fluorescent
+identifiant_qfdmod: 352
+
+
+## Lunettes de Vue Aides Techniques (lunettes_de_vue_aides_techniques)
+# 1 items
+
+< fr: Lunettes de Vue Aides Techniques
+fr: Lunettes de vue
+code: lunettes_de_vue
+
+
+## Machines et Appareils Motorises Thermiques (machines_et_appareils_motorises_thermiques)
+# 8 items
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Aspirateur souffleur thermique, aspirateur souffleur broyeur thermique
+code: aspirateur_souffleur_thermique_aspirateur_souffleur_broyeur_thermique
+identifiant_qfdmod: 347
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Broyeur thermique  à végétaux
+code: broyeur_thermique_a_vegetaux
+identifiant_qfdmod: 347
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Débroussailleuse, rotofil, coupe-bordure thermique
+code: debroussailleuse_rotofil_coupe_bordure_thermique
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Souffleur thermique
+code: souffleur_thermique
+identifiant_qfdmod: 347
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Taille-haie thermique
+code: taille_haie_thermique
+identifiant_qfdmod: 347
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Tondeuse thermique auto-portée
+code: tondeuse_thermique_auto_portee
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Tondeuse thermique tractée
+code: tondeuse_thermique_tractee
+
+< fr: Machines et Appareils Motorises Thermiques
+fr: Tronçonneuse thermique
+code: tronconneuse_thermique
+identifiant_qfdmod: 347
+
+
+## Maroquinerie (maroquinerie)
+# 10 items
+
+< fr: Maroquinerie
+fr: Articles en cuir (hors chaussures)
+code: articles_en_cuir_hors_chaussures
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Blouson en cuir
+code: blouson_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Bracelet en cuir
+code: bracelet_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Ceinture en cuir
+code: ceinture_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Gants en cuir
+code: gants_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Maroquinerie
+code: maroquinerie
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Pantalon en cuir
+code: pantalon_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Portefeuille en cuir
+code: portefeuille_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Sac à main en cuir
+code: sac_a_main_en_cuir
+identifiant_qfdmod: 23
+
+< fr: Maroquinerie
+fr: Sacoche en cuir
+code: sacoche_en_cuir
+identifiant_qfdmod: 23
+
+
+## Materiau du Batiment Reemployable (materiau_du_batiment_reemployable)
+# 9 items
+
+< fr: Materiau du Batiment Reemployable
+fr: Carrelage
+code: carrelage
+
+< fr: Materiau du Batiment Reemployable
+fr: Cloison, BA13, Plaque de plâtre, Placo
+code: cloison_ba13_plaque_de_platre_placo
+
+< fr: Materiau du Batiment Reemployable
+fr: Matériau de construction réemployable
+code: materiau_de_construction_reemployable
+
+< fr: Materiau du Batiment Reemployable
+fr: Matériau du bâtiment réemployable
+code: materiau_du_batiment_reemployable
+
+< fr: Materiau du Batiment Reemployable
+fr: Parpaings
+code: parpaings
+
+< fr: Materiau du Batiment Reemployable
+fr: Parquet, lambri
+code: parquet_lambri
+
+< fr: Materiau du Batiment Reemployable
+fr: Robinet, mitigeur, robinetterie
+code: robinet_mitigeur_robinetterie
+
+< fr: Materiau du Batiment Reemployable
+fr: WC toilette, Bidet, Cabine de douche, Baignoire, Lavabo, Évier, Sanitaires
+code: wc_toilette_bidet_cabine_de_douche_baignoire_lavabo_evier_sanitaires
+
+< fr: Materiau du Batiment Reemployable
+fr: fenêtre, huisserie, porte, volet
+code: fenetre_huisserie_porte_volet
+
+
+## Materiel de Sport Hors Velo (materiel_de_sport_hors_velo)
+# 211 items
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire aquafitness
+code: accessoire_aquafitness
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire de baseball
+code: accessoire_de_baseball
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire de canoë kayak non électrique
+code: accessoire_de_canoe_kayak_non_electrique
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire de sport (baseball, basketball, football, handball, football américain, hockey, rugby, volley, handball, Athlétisme, gymnastique, yoga, pilate, danse, fitness, musculation, capoeira, cheerleading, cirque, fléchettes)
+code: accessoire_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire de trottinette (roue, poignée, autre composant plastique)
+code: accessoire_de_trottinette
+
+< fr: Materiel de Sport Hors Velo
+fr: Accessoire de vélo (antivol, bagagerie, panier, sonnette, pompe, gourde, bidon et porte-bidon)
+code: accessoire_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Appareil de fitness non électrique
+code: appareil_de_fitness_non_electrique
+
+< fr: Materiel de Sport Hors Velo
+fr: Arc
+code: arc
+
+< fr: Materiel de Sport Hors Velo
+fr: Arme d'entraînement
+code: arme_d_entrainement
+identifiant_qfdmod: 374
+
+< fr: Materiel de Sport Hors Velo
+fr: Article de natation
+code: article_de_natation
+
+< fr: Materiel de Sport Hors Velo
+fr: Article de sport
+code: article_de_sport
+identifiant_qfdmod: 369
+
+< fr: Materiel de Sport Hors Velo
+fr: Article pour la pêche à la ligne
+code: article_pour_la_peche_a_la_ligne
+
+< fr: Materiel de Sport Hors Velo
+fr: Autre matériel de sport
+code: autre_materiel_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Aviron
+code: aviron
+
+< fr: Materiel de Sport Hors Velo
+fr: BMX
+code: bmx
+
+< fr: Materiel de Sport Hors Velo
+fr: Babyfoot
+code: babyfoot
+
+< fr: Materiel de Sport Hors Velo
+fr: Balançoire
+code: balancoire
+
+< fr: Materiel de Sport Hors Velo
+fr: Balle de baseball
+code: balle_de_baseball
+
+< fr: Materiel de Sport Hors Velo
+fr: Balle de golf
+code: balle_de_golf
+
+< fr: Materiel de Sport Hors Velo
+fr: Balle de sport (gymnastique, yoga, pilates, musculation, capoeira, cheerleading, cirque)
+code: balle_de_sport_gymnastique
+identifiant_qfdmod: 370
+
+< fr: Materiel de Sport Hors Velo
+fr: Balle de sport de raquette (badminton, squash, ping-pong)
+code: balle_de_sport_de_raquette
+
+< fr: Materiel de Sport Hors Velo
+fr: Balle de tennis
+code: balle_de_tennis
+identifiant_qfdmod: 371
+
+< fr: Materiel de Sport Hors Velo
+fr: Ballon de sport
+code: ballon_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Batte de baseball
+code: batte_de_baseball
+
+< fr: Materiel de Sport Hors Velo
+fr: Bodyboard
+code: bodyboard
+identifiant_qfdmod: 46
+
+< fr: Materiel de Sport Hors Velo
+fr: Bonnet de bain
+code: bonnet_de_bain
+
+< fr: Materiel de Sport Hors Velo
+fr: Boomerang
+code: boomerang
+
+< fr: Materiel de Sport Hors Velo
+fr: Boots de snowboard
+code: boots_de_snowboard
+
+< fr: Materiel de Sport Hors Velo
+fr: Bouclier (Pad) de boxe
+code: bouclier_pad_de_boxe
+
+< fr: Materiel de Sport Hors Velo
+fr: Boule de billard
+code: boule_de_billard
+
+< fr: Materiel de Sport Hors Velo
+fr: Boule de pétanque
+code: boule_de_petanque
+
+< fr: Materiel de Sport Hors Velo
+fr: Bouteille de plongée
+code: bouteille_de_plongee
+identifiant_qfdmod: 67
+
+< fr: Materiel de Sport Hors Velo
+fr: Bouée, planche, matériel d'aide à la flottaison
+code: bouee_planche_materiel_d_aide_a_la_flottaison
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Brassard de flottaison
+code: brassard_de_flottaison
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: But de football
+code: but_de_football
+
+< fr: Materiel de Sport Hors Velo
+fr: Bâton de ski
+code: baton_de_ski
+
+< fr: Materiel de Sport Hors Velo
+fr: Cadre de vélo
+code: cadre_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Canne à pêche
+code: canne_a_peche
+
+< fr: Materiel de Sport Hors Velo
+fr: Cartouche, douille usagée, balle (tir sportif)
+code: cartouche_douille_usagee_balle_tir_sportif
+
+< fr: Materiel de Sport Hors Velo
+fr: Casque
+code: casque
+identifiant_qfdmod: 90
+
+< fr: Materiel de Sport Hors Velo
+fr: Casque de protection (ski, vélo, football américain, hockey, roller skate, skate board, bombe d'équitation, alpinisme, escalade, varappe, canyoning, patinage artistique, hockey sur glace, curling…)
+code: casque_de_protection
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Ceinture de judo
+code: ceinture_de_judo
+
+< fr: Materiel de Sport Hors Velo
+fr: Ceinture et gilet de sauvetage textile
+code: ceinture_et_gilet_de_sauvetage_textile
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Cercle de basket
+code: cercle_de_basket
+
+< fr: Materiel de Sport Hors Velo
+fr: Cerf-volant
+code: cerf_volant
+
+< fr: Materiel de Sport Hors Velo
+fr: Chambre à air de vélo
+code: chambre_a_air_de_velo
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Chariot de golf
+code: chariot_de_golf
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussons d'escalade
+code: chaussons_d_escalade
+identifiant_qfdmod: 372
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussons de danse
+code: chaussons_de_danse
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussons de gymnastique
+code: chaussons_de_gymnastique
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussures de marche
+code: chaussures_de_marche
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussures de randonnée
+code: chaussures_de_randonnee
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussures de ski
+code: chaussures_de_ski
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaussures de sport
+code: chaussures_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Chaîne de vélo
+code: chaine_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Cible (chasse, tir sportif, ball-trap, tir à l'arc, fléchettes)
+code: cible
+
+< fr: Materiel de Sport Hors Velo
+fr: Club de golf
+code: club_de_golf
+
+< fr: Materiel de Sport Hors Velo
+fr: Combinaison de ski
+code: combinaison_de_ski
+
+< fr: Materiel de Sport Hors Velo
+fr: Combinaison de sport
+code: combinaison_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Combinaison en néoprène enfant
+code: combinaison_en_neoprene_enfant
+
+< fr: Materiel de Sport Hors Velo
+fr: Composant de vélo
+code: composant_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Coque de protection (sport)
+code: coque_de_protection_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Coquille de protection (sport)
+code: coquille_de_protection_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Corde pour le sport
+code: corde_pour_le_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Cordelette pour le sport
+code: cordelette_pour_le_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Coudière
+code: coudiere
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Couteau (chasse)
+code: couteau_chasse
+
+< fr: Materiel de Sport Hors Velo
+fr: Crampons de chaussures de montagne
+code: crampons_de_chaussures_de_montagne
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Crashpad
+code: crashpad
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Crosse de hockey
+code: crosse_de_hockey
+
+< fr: Materiel de Sport Hors Velo
+fr: Dague
+code: dague
+
+< fr: Materiel de Sport Hors Velo
+fr: Deltaplane
+code: deltaplane
+
+< fr: Materiel de Sport Hors Velo
+fr: Dorsale
+code: dorsale
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Elastiband
+code: elastiband
+
+< fr: Materiel de Sport Hors Velo
+fr: Elliptique
+code: elliptique
+
+< fr: Materiel de Sport Hors Velo
+fr: Embarcation < 2,5m
+code: embarcation_inferieur_a_2_5m
+
+< fr: Materiel de Sport Hors Velo
+fr: Epaulière
+code: epauliere
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Epée
+code: epee
+
+< fr: Materiel de Sport Hors Velo
+fr: Equipement d'équitation (hors protection individuelle, chaussants et vêtements)
+code: equipement_d_equitation_hors_protection_individuelle_chaussants_et_vetements
+
+< fr: Materiel de Sport Hors Velo
+fr: Equipement de musculation non électrique
+code: equipement_de_musculation_non_electrique
+
+< fr: Materiel de Sport Hors Velo
+fr: Equipement de piscine
+code: equipement_de_piscine
+
+< fr: Materiel de Sport Hors Velo
+fr: Equipement de ski de randonnée (pelle, sonde...)
+code: equipement_de_ski_de_randonnee
+
+< fr: Materiel de Sport Hors Velo
+fr: Etui de raquette (tennis, badminton, squash, tennis de table...)
+code: etui_de_raquette
+
+< fr: Materiel de Sport Hors Velo
+fr: Filet et poteaux de sport
+code: filet_et_poteaux_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Fitness tube
+code: fitness_tube
+
+< fr: Materiel de Sport Hors Velo
+fr: Fixation (ski, snowboard)
+code: fixation_ski_snowboard
+
+< fr: Materiel de Sport Hors Velo
+fr: Fixation murale sac de frappe
+code: fixation_murale_sac_de_frappe
+
+< fr: Materiel de Sport Hors Velo
+fr: Fleuret
+code: fleuret
+
+< fr: Materiel de Sport Hors Velo
+fr: Flèche
+code: fleche
+
+< fr: Materiel de Sport Hors Velo
+fr: Fléchette
+code: flechette
+
+< fr: Materiel de Sport Hors Velo
+fr: Foil (windsurf, kitesurf...)
+code: foil_windsurf_kitesurf
+
+< fr: Materiel de Sport Hors Velo
+fr: Fourche de vélo
+code: fourche_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Frisbee
+code: frisbee
+
+< fr: Materiel de Sport Hors Velo
+fr: Gants de sport
+code: gants_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Genouillère
+code: genouillere
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Glacière rigide
+code: glaciere_rigide
+
+< fr: Materiel de Sport Hors Velo
+fr: Guidon de vélo
+code: guidon_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Guètres de sport
+code: guetres_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Hameçon
+code: hamecon
+
+< fr: Materiel de Sport Hors Velo
+fr: Harnais, mousqueton, dégaine, assurage, poulie, bloqueur, coinceur (Matériel d'alpinisme, escalade, varappe, canyoning, camping)
+code: harnais_mousqueton_degaine_assurage_poulie_bloqueur_coinceur
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Housse de sport
+code: housse_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Housse du Surf
+code: housse_du_surf
+
+< fr: Materiel de Sport Hors Velo
+fr: Jante de vélo
+code: jante_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Jeu de palets
+code: jeu_de_palets
+
+< fr: Materiel de Sport Hors Velo
+fr: Jeu de quilles
+code: jeu_de_quilles
+
+< fr: Materiel de Sport Hors Velo
+fr: Kimono
+code: kimono
+
+< fr: Materiel de Sport Hors Velo
+fr: Laisse de promenade de canicrosse
+code: laisse_de_promenade_de_canicrosse
+
+< fr: Materiel de Sport Hors Velo
+fr: Longe pour le sport (escalade, canicrosse)
+code: longe_pour_le_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Luge
+code: luge
+
+< fr: Materiel de Sport Hors Velo
+fr: Lunettes de piscine
+code: lunettes_de_piscine
+
+< fr: Materiel de Sport Hors Velo
+fr: Lunettes de sports de montagne (parapente, parachute, deltaplane…)
+code: lunettes_de_sports_de_montagne
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Machine de musculation développé-couché
+code: machine_de_musculation_developpe_couche
+
+< fr: Materiel de Sport Hors Velo
+fr: Masque de sport
+code: masque_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel d'alpinisme
+code: materiel_d_alpinisme
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel d'aquagym
+code: materiel_d_aquagym
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel d'athlétisme (haie, starting-block, bâton, témoin, javelot, poids, disque, marteau, matériel pour saut en longueur et hauteur…)
+code: materiel_d_athletisme
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel d'entraînement sportif (mini-haie, marquage au sol, plot, cône de sport…)
+code: materiel_d_entrainement_sportif
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel d'escalade (harnais, mousqueton, dégaine, assurage, poulie, bloqueur, coinceur)
+code: materiel_d_escalade
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de Varappe
+code: materiel_de_varappe
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de canyoning
+code: materiel_de_canyoning
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de cirque (diabolo, assiettes chinoises, balles et anneaux de jonglages...)
+code: materiel_de_cirque
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de protection du cavalier (bombe, gilet...)
+code: materiel_de_protection_du_cavalier
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de protection individuelle (sport)
+code: materiel_de_protection_individuelle_sport
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel de voile (dérive, gouvernail, harnais de rappel, trapèze, accastillage, poulie, manille, mousqueton, drisse, cordage…)
+code: materiel_de_voile_derive_gouvernail_harnais_de_rappel_trapeze_accastillage_poulie_manille_mousqueton_drisse_cordage
+
+< fr: Materiel de Sport Hors Velo
+fr: Matériel en néoprène (chaussons, gants, cagoules, mitaines, surchausses...)
+code: materiel_en_neoprene
+
+< fr: Materiel de Sport Hors Velo
+fr: Mini poteau gonflable de rugby
+code: mini_poteau_gonflable_de_rugby
+
+< fr: Materiel de Sport Hors Velo
+fr: Mini-but
+code: mini_but
+
+< fr: Materiel de Sport Hors Velo
+fr: Moulinet de canne à pêche
+code: moulinet_de_canne_a_peche
+
+< fr: Materiel de Sport Hors Velo
+fr: Mât de windsurf
+code: mat_de_windsurf
+
+< fr: Materiel de Sport Hors Velo
+fr: Pagaie
+code: pagaie
+
+< fr: Materiel de Sport Hors Velo
+fr: Palet de hockey
+code: palet_de_hockey
+
+< fr: Materiel de Sport Hors Velo
+fr: Palmes
+code: palmes
+
+< fr: Materiel de Sport Hors Velo
+fr: Panier de basket
+code: panier_de_basket
+
+< fr: Materiel de Sport Hors Velo
+fr: Panneau de basket
+code: panneau_de_basket
+
+< fr: Materiel de Sport Hors Velo
+fr: Pantalon de sport
+code: pantalon_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Parachute
+code: parachute
+
+< fr: Materiel de Sport Hors Velo
+fr: Parapente
+code: parapente
+
+< fr: Materiel de Sport Hors Velo
+fr: Patins de sport (à glace, de hockey sur glace, de curling)
+code: patins_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Pattes d'ours (boxe)
+code: pattes_d_ours_boxe
+
+< fr: Materiel de Sport Hors Velo
+fr: Pelle d'aviron
+code: pelle_d_aviron
+
+< fr: Materiel de Sport Hors Velo
+fr: Pince-nez (piscine)
+code: pince_nez_piscine
+
+< fr: Materiel de Sport Hors Velo
+fr: Piolet de sport
+code: piolet_de_sport
+
+< fr: Materiel de Sport Hors Velo
+fr: Pièce détachée de vélo (moyeu, jeu de direction, plateau, dérailleur, poignée, chaîne, cadre, guidon, fourche...)
+code: piece_detachee_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Pièce détachée skate-board
+code: piece_detachee_skate_board
+
+< fr: Materiel de Sport Hors Velo
+fr: Planche de sport nautique (voile, surf, kitesurf, windsurf, bodyboard)
+code: planche_de_sport_nautique
+
+< fr: Materiel de Sport Hors Velo
+fr: Planche de windsurf
+code: planche_de_windsurf
+
+< fr: Materiel de Sport Hors Velo
+fr: Planche à roulettes
+code: planche_a_roulettes
+
+< fr: Materiel de Sport Hors Velo
+fr: Plaquettes (natation)
+code: plaquettes_natation
+
+< fr: Materiel de Sport Hors Velo
+fr: Pneu de vélo
+code: pneu_de_velo
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Poids, haltères
+code: poids_halteres
+
+< fr: Materiel de Sport Hors Velo
+fr: Poignée de vélo
+code: poignee_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Pointes d'athlétisme
+code: pointes_d_athletisme
+
+< fr: Materiel de Sport Hors Velo
+fr: Pompe (vélo, sports nautiques)
+code: pompe_velo_sports_nautiques
+
+< fr: Materiel de Sport Hors Velo
+fr: Porte-bébé pour vélo
+code: porte_bebe_pour_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Portique
+code: portique
+identifiant_qfdmod: 194
+
+< fr: Materiel de Sport Hors Velo
+fr: Poteau, mini poteau de sport (foot, rugby)
+code: poteau_mini_poteau_de_sport_foot_rugby
+
+< fr: Materiel de Sport Hors Velo
+fr: Potence de vélo
+code: potence_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Protège-poignet
+code: protege_poignet
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Protège-tibia
+code: protege_tibia
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Punch paddle (boxe)
+code: punch_paddle_boxe
+
+< fr: Materiel de Sport Hors Velo
+fr: Pédale de vélo
+code: pedale_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Rack de musculation
+code: rack_de_musculation
+
+< fr: Materiel de Sport Hors Velo
+fr: Raft
+code: raft
+
+< fr: Materiel de Sport Hors Velo
+fr: Rames
+code: rames
+
+< fr: Materiel de Sport Hors Velo
+fr: Rameur
+code: rameur
+
+< fr: Materiel de Sport Hors Velo
+fr: Raquette (tennis, badminton, squash, ping-pong...)
+code: raquette
+
+< fr: Materiel de Sport Hors Velo
+fr: Raquettes de ski
+code: raquettes_de_ski
+
+< fr: Materiel de Sport Hors Velo
+fr: Rayon de vélo
+code: rayon_de_velo
+
+< fr: Materiel de Sport Hors Velo
+fr: Rollers
+code: rollers
+identifiant_qfdmod: 300
+
+< fr: Materiel de Sport Hors Velo
+fr: Sac de frappe
+code: sac_de_frappe
+
+< fr: Materiel de Sport Hors Velo
+fr: Sac de golf
+code: sac_de_golf
+
+< fr: Materiel de Sport Hors Velo
+fr: Sac de randonnée avec ceinture ventrale
+code: sac_de_randonnee_avec_ceinture_ventrale
+
+< fr: Materiel de Sport Hors Velo
+fr: Sac à dos
+code: sac_a_dos
+
+< fr: Materiel de Sport Hors Velo
+fr: Selle
+code: selle
+
+< fr: Materiel de Sport Hors Velo
+fr: Short rembourré
+code: short_rembourre
+
+< fr: Materiel de Sport Hors Velo
+fr: Skate-board
+code: skate_board
+identifiant_qfdmod: 323
+
+< fr: Materiel de Sport Hors Velo
+fr: Skis nautiques
+code: skis_nautiques
+
+< fr: Materiel de Sport Hors Velo
+fr: Slackline
+code: slackline
+
+< fr: Materiel de Sport Hors Velo
+fr: Snowboard
+code: snowboard
+
+< fr: Materiel de Sport Hors Velo
+fr: Speedball
+code: speedball
+
+< fr: Materiel de Sport Hors Velo
+fr: Stand-up paddle
+code: stand_up_paddle
+
+< fr: Materiel de Sport Hors Velo
+fr: Step de gymnastique
+code: step_de_gymnastique
+
+< fr: Materiel de Sport Hors Velo
+fr: Surf
+code: surf
+identifiant_qfdmod: 46
+
+< fr: Materiel de Sport Hors Velo
+fr: Suspente de parapente et parachute
+code: suspente_de_parapente_et_parachute
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Table de billard
+code: table_de_billard
+
+< fr: Materiel de Sport Hors Velo
+fr: Table de ping-pong
+code: table_de_ping_pong
+
+< fr: Materiel de Sport Hors Velo
+fr: Tapis de sol
+code: tapis_de_sol
+
+< fr: Materiel de Sport Hors Velo
+fr: Tees
+code: tees
+
+< fr: Materiel de Sport Hors Velo
+fr: Tente
+code: tente
+
+< fr: Materiel de Sport Hors Velo
+fr: Tenue de cycliste
+code: tenue_de_cycliste
+
+< fr: Materiel de Sport Hors Velo
+fr: Trampoline
+code: trampoline
+
+< fr: Materiel de Sport Hors Velo
+fr: Travel bag (bagagerie sportive)
+code: travel_bag_bagagerie_sportive
+
+< fr: Materiel de Sport Hors Velo
+fr: Trottinette
+code: trottinette
+identifiant_qfdmod: 351
+
+< fr: Materiel de Sport Hors Velo
+fr: Tuba, masque de plongée
+code: tuba_masque_de_plongee
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: Veste d'escrime
+code: veste_d_escrime
+
+< fr: Materiel de Sport Hors Velo
+fr: Voile de windsurf
+code: voile_de_windsurf
+
+< fr: Materiel de Sport Hors Velo
+fr: Volant (badminton)
+code: volant_badminton
+
+< fr: Materiel de Sport Hors Velo
+fr: Vortex
+code: vortex
+
+< fr: Materiel de Sport Hors Velo
+fr: Wakeboard
+code: wakeboard
+
+< fr: Materiel de Sport Hors Velo
+fr: Windsurf
+code: windsurf
+
+< fr: Materiel de Sport Hors Velo
+fr: casque de trottinette
+code: casque_de_trottinette
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: casque de vélo
+code: casque_de_velo
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: coque de protection de handball
+code: coque_de_protection_de_handball
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: coquille de protection
+code: coquille_de_protection
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: corde, cordelette et longe d'escalade
+code: corde_cordelette_et_longe_d_escalade
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: corde, cordelette, harnais et longe de canicrosse
+code: corde_cordelette_harnais_et_longe_de_canicrosse
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: gants (gardien de foot, vélo, voile, golf, escrime, boxe…)
+code: gants_sport
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: masque d'escrime
+code: masque_d_escrime
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: matériel de voile (harnais de rappel, trapèze, accastillage, poulie, manille, mousqueton, drisse, cordage…) < 2,5 m,
+code: materiel_de_voile
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: piolet
+code: piolet
+identifiant_qfdmod: 373
+
+< fr: Materiel de Sport Hors Velo
+fr: skis
+code: skis
+
+
+## Materiel Hifi et Video (materiel_hifi_et_video)
+# 11 items
+
+< fr: Materiel Hifi et Video
+fr: Autoradio
+code: autoradio
+identifiant_qfdmod: 25
+
+< fr: Materiel Hifi et Video
+fr: Baffles
+code: baffles
+
+< fr: Materiel Hifi et Video
+fr: Baladeur
+code: baladeur
+identifiant_qfdmod: 29
+
+< fr: Materiel Hifi et Video
+fr: Casque audio
+code: casque_audio
+
+< fr: Materiel Hifi et Video
+fr: Haut-parleurs
+code: haut_parleurs
+identifiant_qfdmod: 184
+
+< fr: Materiel Hifi et Video
+fr: Lecteur DVD
+code: lecteur_dvd
+identifiant_qfdmod: 200
+
+< fr: Materiel Hifi et Video
+fr: MP3
+code: mp3
+identifiant_qfdmod: 29
+
+< fr: Materiel Hifi et Video
+fr: Matériel hifi
+code: materiel_hifi
+
+< fr: Materiel Hifi et Video
+fr: Matériel vidéo
+code: materiel_video
+
+< fr: Materiel Hifi et Video
+fr: Radio
+code: radio
+identifiant_qfdmod: 145
+
+< fr: Materiel Hifi et Video
+fr: Walkman
+code: walkman
+identifiant_qfdmod: 29
+
+
+## Materiel Informatique (materiel_informatique)
+# 5 items
+
+< fr: Materiel Informatique
+fr: Clé USB
+code: cle_usb
+identifiant_qfdmod: 103
+
+< fr: Materiel Informatique
+fr: Imprimante
+code: imprimante
+identifiant_qfdmod: 189
+
+< fr: Materiel Informatique
+fr: Matériel informatique
+code: materiel_informatique
+identifiant_qfdmod: 220
+
+< fr: Materiel Informatique
+fr: Ordinateur
+code: ordinateur
+
+< fr: Materiel Informatique
+fr: PC
+code: pc
+
+
+## Materiel Medical (materiel_medical)
+# 2 items
+
+< fr: Materiel Medical
+fr: Fauteuil roulant, béquilles, brancard, lit médicalisé, déambulateur, attelle
+code: fauteuil_roulant_bequilles_brancard_lit_medicalise_deambulateur
+
+< fr: Materiel Medical
+fr: Matériel médical
+code: materiel_medical
+
+
+## Materiel Photo et Cinema (materiel_photo_et_cinema)
+# 3 items
+
+< fr: Materiel Photo et Cinema
+fr: Appareil photo
+code: appareil_photo
+
+< fr: Materiel Photo et Cinema
+fr: Matériel cinéma
+code: materiel_cinema
+
+< fr: Materiel Photo et Cinema
+fr: Matériel photo
+code: materiel_photo
+
+
+## Medicaments (medicaments)
+# 2 items
+
+< fr: Medicaments
+fr: Aiguille médicale usagée / Seringue avec aiguille
+code: aiguille_dasri
+
+< fr: Medicaments
+fr: Médicaments inutilisés (sans leur emballage)
+code: medicaments_inutilises
+
+
+## Membranes Bitumineuses Pmcb Produits et Materiaux de Construction du Batiment (membranes_bitumineuses_pmcb_produits_et_materiaux_de_construction_du_batiment)
+# 1 items
+
+< fr: Membranes Bitumineuses Pmcb Produits et Materiaux de Construction du Batiment
+fr: Membranes bitumineuses - PMCB (produits et matériaux de construction du bâtiment)
+code: membranes_bitumineuses_pmcb
+identifiant_qfdmod: 444
+
+
+## Meuble (meuble)
+# 172 items
+
+< fr: Meuble
+fr: Accessoire de pose ou d'accrochage (dévidoir, dérouleur, distributeur, support...)
+code: accessoire_de_pose_ou_d_acchorage
+
+< fr: Meuble
+fr: Accessoire pour meuble (taquet, équerre, patte, charnière, vis spécifiquement dédiées)
+code: accessoire_pour_meuble
+
+< fr: Meuble
+fr: Amortisseur mécanique pour meuble
+code: amortisseur_mecanique_pour_meuble
+
+< fr: Meuble
+fr: Arbre à chat
+code: arbre_a_chat
+
+< fr: Meuble
+fr: Argentier
+code: argentier
+
+< fr: Meuble
+fr: Armoire
+code: armoire
+
+< fr: Meuble
+fr: Assise médicale (non électrique, non motorisée)
+code: assise_medicale_non_electrique_non_motorisee
+
+< fr: Meuble
+fr: Bac de rangement
+code: bac_de_rangement
+
+< fr: Meuble
+fr: Bain de soleil
+code: bain_de_soleil
+
+< fr: Meuble
+fr: Balancelle de jardin
+code: balancelle_de_jardin
+
+< fr: Meuble
+fr: Banc
+code: banc
+
+< fr: Meuble
+fr: Bande de chant
+code: bande_de_chant
+
+< fr: Meuble
+fr: Bandeau de four
+code: bandeau_de_four
+
+< fr: Meuble
+fr: Bibliothèque
+code: bibliotheque
+
+< fr: Meuble
+fr: Bibus
+code: bibus
+
+< fr: Meuble
+fr: Bloc tiroir
+code: bloc_tiroir
+
+< fr: Meuble
+fr: Boite de rangement
+code: boite_de_rangement
+
+< fr: Meuble
+fr: Bout de canapé
+code: bout_de_canape
+
+< fr: Meuble
+fr: Bouton de meuble
+code: bouton_de_meuble
+
+< fr: Meuble
+fr: Buffet
+code: buffet
+
+< fr: Meuble
+fr: Bureau
+code: bureau
+
+< fr: Meuble
+fr: Cadre de lit
+code: cadre_de_lit
+
+< fr: Meuble
+fr: Caisson (meuble)
+code: caisson_meuble
+
+< fr: Meuble
+fr: Canapé
+code: canape
+
+< fr: Meuble
+fr: Casier à bouteille
+code: casier_a_bouteille
+
+< fr: Meuble
+fr: Casier à vin
+code: casier_a_vin
+
+< fr: Meuble
+fr: Casserolier
+code: casserolier
+
+< fr: Meuble
+fr: Chaise
+code: chaise
+
+< fr: Meuble
+fr: Chariot d'imprimante
+code: chariot_d_imprimante
+
+< fr: Meuble
+fr: Chevalet d'écriture
+code: chevalet_d_ecriture
+
+< fr: Meuble
+fr: Chiffonnier
+code: chiffonnier
+
+< fr: Meuble
+fr: Cloisonette de séparation
+code: cloisonette_de_separation
+
+< fr: Meuble
+fr: Coffre
+code: coffre
+
+< fr: Meuble
+fr: Coiffeuse
+code: coiffeuse
+
+< fr: Meuble
+fr: Colonne de rangement
+code: colonne_de_rangement
+
+< fr: Meuble
+fr: Commode
+code: commode
+
+< fr: Meuble
+fr: Compas pour meuble
+code: compas_pour_meuble
+
+< fr: Meuble
+fr: Confiturier
+code: confiturier
+
+< fr: Meuble
+fr: Console
+code: console
+
+< fr: Meuble
+fr: Console murale
+code: console_murale
+
+< fr: Meuble
+fr: Corniche
+code: corniche
+
+< fr: Meuble
+fr: Couchette enfant
+code: couchette_enfant
+
+< fr: Meuble
+fr: Crédence
+code: credence
+
+< fr: Meuble
+fr: Crémaillère
+code: cremaillere
+
+< fr: Meuble
+fr: Cube de rangement
+code: cube_de_rangement
+
+< fr: Meuble
+fr: Desserte
+code: desserte
+
+< fr: Meuble
+fr: Dosseret
+code: dosseret
+
+< fr: Meuble
+fr: Dressing
+code: dressing
+
+< fr: Meuble
+fr: Egouttoir
+code: egouttoir
+
+< fr: Meuble
+fr: Eléments de cuisine
+code: elements_de_cuisine
+
+< fr: Meuble
+fr: Escabeau solidaire d'un meuble
+code: escabeau_solidaire_d_un_meuble
+
+< fr: Meuble
+fr: Etabli
+code: etabli
+
+< fr: Meuble
+fr: Etagère
+code: etagere
+
+< fr: Meuble
+fr: Fauteuil
+code: fauteuil
+
+< fr: Meuble
+fr: Façade de meuble
+code: facade_de_meuble
+
+< fr: Meuble
+fr: Filet de rangement
+code: filet_de_rangement
+
+< fr: Meuble
+fr: Fileur
+code: fileur
+
+< fr: Meuble
+fr: Garde-manger
+code: garde_manger
+
+< fr: Meuble
+fr: Guéridon
+code: gueridon
+
+< fr: Meuble
+fr: Hamac à peluches
+code: hamac_a_peluches
+
+< fr: Meuble
+fr: Housse de table à repasser
+code: housse_de_table_a_repasser
+
+< fr: Meuble
+fr: Housse pour meuble
+code: housse_pour_meuble
+
+< fr: Meuble
+fr: Hûche à pain
+code: huche_a_pain
+
+< fr: Meuble
+fr: Ilot central
+code: ilot_central
+
+< fr: Meuble
+fr: Joue de finition
+code: joue_de_finition
+
+< fr: Meuble
+fr: Kit coulissant
+code: kit_coulissant
+
+< fr: Meuble
+fr: Lingère
+code: lingere
+
+< fr: Meuble
+fr: Lit
+code: lit
+
+< fr: Meuble
+fr: Loquetaux
+code: loquetaux
+
+< fr: Meuble
+fr: Malle
+code: malle
+
+< fr: Meuble
+fr: Mange-débout
+code: mange_debout
+
+< fr: Meuble
+fr: Matelas (en mousse, à ressorts...)
+code: matelas_en_mousse_a_ressorts
+identifiant_qfdmod: 216
+
+< fr: Meuble
+fr: Meuble
+code: meuble
+identifiant_qfdmod: 225
+
+< fr: Meuble
+fr: Meuble TV
+code: meuble_tv
+
+< fr: Meuble
+fr: Meuble classeur
+code: meuble_classeur
+
+< fr: Meuble
+fr: Meuble colonne
+code: meuble_colonne
+
+< fr: Meuble
+fr: Meuble d'aquarium
+code: meuble_d_aquarium
+
+< fr: Meuble
+fr: Meuble d'évier
+code: meuble_d_evier
+
+< fr: Meuble
+fr: Meuble de bar
+code: meuble_de_bar
+
+< fr: Meuble
+fr: Meuble de cuisine (haut et bas)
+code: meuble_de_cuisine
+
+< fr: Meuble
+fr: Meuble de hotte
+code: meuble_de_hotte
+
+< fr: Meuble
+fr: Meuble de micro-ondes
+code: meuble_de_micro_ondes
+
+< fr: Meuble
+fr: Meuble de rangement
+code: meuble_de_rangement
+
+< fr: Meuble
+fr: Meuble de séparation
+code: meuble_de_separation
+
+< fr: Meuble
+fr: Meuble de tri
+code: meuble_de_tri
+
+< fr: Meuble
+fr: Meuble de téléphone
+code: meuble_de_telephone
+
+< fr: Meuble
+fr: Meuble range CD
+code: meuble_range_cd
+
+< fr: Meuble
+fr: Meuble range-bouteilles
+code: meuble_range_bouteilles
+
+< fr: Meuble
+fr: Meuble sous vasque
+code: meuble_sous_vasque
+
+< fr: Meuble
+fr: Meuble à langer
+code: meuble_a_langer
+
+< fr: Meuble
+fr: Mobilier animalier
+code: mobilier_animalier
+
+< fr: Meuble
+fr: Mobilier de bureau
+code: mobilier_de_bureau
+
+< fr: Meuble
+fr: Ottomane
+code: ottomane
+
+< fr: Meuble
+fr: Panier à linge
+code: panier_a_linge
+
+< fr: Meuble
+fr: Panneau de meuble
+code: panneau_de_meuble
+
+< fr: Meuble
+fr: Paravent
+code: paravent
+
+< fr: Meuble
+fr: Patère
+code: patere
+
+< fr: Meuble
+fr: Penderie
+code: penderie
+
+< fr: Meuble
+fr: Pieds de meuble
+code: pieds_de_meuble
+
+< fr: Meuble
+fr: Piétement de meuble (bureau, siège, table...)
+code: pietement_de_meuble
+
+< fr: Meuble
+fr: Piétement de table
+code: pietement_de_table
+
+< fr: Meuble
+fr: Placard
+code: placard
+
+< fr: Meuble
+fr: Plan de travail
+code: plan_de_travail
+
+< fr: Meuble
+fr: Plan à langer
+code: plan_a_langer
+
+< fr: Meuble
+fr: Planche à repasser
+code: planche_a_repasser
+identifiant_qfdmod: 329
+
+< fr: Meuble
+fr: Plateau de bureau
+code: plateau_de_bureau
+
+< fr: Meuble
+fr: Plateau de table
+code: plateau_de_table
+
+< fr: Meuble
+fr: Plinthe de meuble
+code: plinthe_de_meuble
+
+< fr: Meuble
+fr: Poignée de meuble
+code: poignee_de_meuble
+
+< fr: Meuble
+fr: Portant
+code: portant
+
+< fr: Meuble
+fr: Porte battante de meuble
+code: porte_battante_de_meuble
+
+< fr: Meuble
+fr: Porte-manteaux sur pied
+code: porte_manteaux_sur_pied
+
+< fr: Meuble
+fr: Porte-revue sur pied
+code: porte_revue_sur_pied
+
+< fr: Meuble
+fr: Porte-savon
+code: porte_savon
+
+< fr: Meuble
+fr: Poubelle
+code: poubelle
+identifiant_qfdmod: 307
+
+< fr: Meuble
+fr: Pupitre
+code: pupitre
+
+< fr: Meuble
+fr: Quincaillerie de meuble
+code: quincaillerie_de_meuble
+
+< fr: Meuble
+fr: Raccord de meubles modulaires
+code: raccord_de_meubles_modulaires
+
+< fr: Meuble
+fr: Rallonge et extension de table
+code: rallonge_et_extension_de_table
+
+< fr: Meuble
+fr: Range bouteille
+code: range_bouteille
+
+< fr: Meuble
+fr: Range-bûches
+code: range_buches
+
+< fr: Meuble
+fr: Range-couvert
+code: range_couvert
+
+< fr: Meuble
+fr: Range-outils
+code: range_outils
+
+< fr: Meuble
+fr: Rangement
+code: rangement
+
+< fr: Meuble
+fr: Rayonnage
+code: rayonnage
+
+< fr: Meuble
+fr: Repose-pied
+code: repose_pied
+
+< fr: Meuble
+fr: Retour et angle de bureau
+code: retour_et_angle_de_bureau
+
+< fr: Meuble
+fr: Réhausse TV
+code: rehausse_tv
+
+< fr: Meuble
+fr: Secrétaire
+code: secretaire
+
+< fr: Meuble
+fr: Semainier (meuble)
+code: semainier_meuble
+
+< fr: Meuble
+fr: Serre-bûches
+code: serre_buches
+
+< fr: Meuble
+fr: Servante d'atelier
+code: servante_d_atelier
+
+< fr: Meuble
+fr: Siège de bain
+code: siege_de_bain
+
+< fr: Meuble
+fr: Socle de caisson
+code: socle_de_caisson
+
+< fr: Meuble
+fr: Structure de lit
+code: structure_de_lit
+
+< fr: Meuble
+fr: Structure de rangement
+code: structure_de_rangement
+
+< fr: Meuble
+fr: Support brosse WC
+code: support_brosse_wc
+
+< fr: Meuble
+fr: Support de barbecue
+code: support_de_barbecue
+
+< fr: Meuble
+fr: Support de jardinière
+code: support_de_jardiniere
+
+< fr: Meuble
+fr: Support de plancha
+code: support_de_plancha
+
+< fr: Meuble
+fr: Support mural d'accrochage
+code: support_mural_d_acchorage
+
+< fr: Meuble
+fr: Support pour ordinateur
+code: support_pour_ordinateur
+
+< fr: Meuble
+fr: Sur-meuble de bureau
+code: sur_meuble_de_bureau
+
+< fr: Meuble
+fr: Table (à manger, d'extérieur, de jardin, de camping, de pique-nique)
+code: table
+
+< fr: Meuble
+fr: Table basse
+code: table_basse
+
+< fr: Meuble
+fr: Table de camping pique-nique pliante portable avec 4 sieges
+code: table_de_camping_pique_nique_pliante_portable_avec_4_sieges
+
+< fr: Meuble
+fr: Table de chevet
+code: table_de_chevet
+
+< fr: Meuble
+fr: Table de jardin
+code: table_de_jardin
+
+< fr: Meuble
+fr: Table de massage
+code: table_de_massage
+
+< fr: Meuble
+fr: Table de préparation
+code: table_de_preparation
+
+< fr: Meuble
+fr: Table de rempotage
+code: table_de_rempotage
+
+< fr: Meuble
+fr: Table encastrable
+code: table_encastrable
+
+< fr: Meuble
+fr: Table gigogne
+code: table_gigogne
+
+< fr: Meuble
+fr: Table à langer
+code: table_a_langer
+
+< fr: Meuble
+fr: Table à repasser
+code: table_a_repasser
+
+< fr: Meuble
+fr: Tableau d'écriture
+code: tableau_d_ecriture
+
+< fr: Meuble
+fr: Tableau en ardoise
+code: tableau_en_ardoise
+identifiant_qfdmod: 330
+
+< fr: Meuble
+fr: Tablette coulissante pour clavier
+code: tablette_coulissante_pour_clavier
+
+< fr: Meuble
+fr: Tablette murale
+code: tablette_murale
+
+< fr: Meuble
+fr: Tapis à chat ou chien
+code: tapis_a_chat_ou_chien
+
+< fr: Meuble
+fr: Tasseau
+code: tasseau
+
+< fr: Meuble
+fr: Tiroir
+code: tiroir
+
+< fr: Meuble
+fr: Tiroir de lit
+code: tiroir_de_lit
+
+< fr: Meuble
+fr: Tiroir motorisé
+code: tiroir_motorise
+
+< fr: Meuble
+fr: Transat
+code: transat
+
+< fr: Meuble
+fr: Tringle à penderie
+code: tringle_a_penderie
+
+< fr: Meuble
+fr: Tréteau
+code: treteau
+
+< fr: Meuble
+fr: Tête de lit
+code: tete_de_lit
+
+< fr: Meuble
+fr: Vaisselier
+code: vaisselier
+
+< fr: Meuble
+fr: Valet
+code: valet
+
+< fr: Meuble
+fr: Vitrine
+code: vitrine
+
+< fr: Meuble
+fr: revêtement de meuble (portes de placard, plan de travail...)
+code: revetement_de_meuble
+
+
+## Outil de Bricolage et Jardinage (outil_de_bricolage_et_jardinage)
+# 32 items
+
+< fr: Outil de Bricolage et Jardinage
+fr: Arrosoir
+code: arrosoir
+
+< fr: Outil de Bricolage et Jardinage
+fr: Aérateur démousseur thermique
+code: aerateur_demousseur_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Clé (outil de bricolage)
+code: cle_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Coupe bordure thermique
+code: coupe_bordure_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Cutter
+code: cutter
+
+< fr: Outil de Bricolage et Jardinage
+fr: Douille (outil de bricolage)
+code: douille_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Débroussailleuse thermique
+code: debroussailleuse_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Démousseur thermique
+code: demousseur_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Fendeur de bûches thermique
+code: fendeur_de_buches_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Fraise à neige thermique
+code: fraise_a_neige_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Lime (outil de bricolage)
+code: lime_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Maillet
+code: maillet
+
+< fr: Outil de Bricolage et Jardinage
+fr: Marteau
+code: marteau
+
+< fr: Outil de Bricolage et Jardinage
+fr: Masse (outil de bricolage)
+code: masse_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Microbineuse thermique
+code: microbineuse_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Motobineuse thermique
+code: motobineuse_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Motoculteur thermique
+code: motoculteur_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Nettoyeur à haute pression thermique
+code: nettoyeur_a_haute_pression_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Outil de bricolage
+code: outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Outil de jardinage
+code: outil_de_jardinage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Outil manuel (bricolage, jardinage)
+code: outil_manuel_bricolage_jardinage
+identifiant_qfdmod: 244
+
+< fr: Outil de Bricolage et Jardinage
+fr: Pince (outil de bricolage)
+code: pince_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Pompe à eau thermique
+code: pompe_a_eau_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Pulvérisateur thermique,  Atomiseur thermique à dos
+code: pulverisateur_thermique_atomiseur_thermique_a_dos
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Râpe (outil de bricolage)
+code: rape_outil_de_bricolage
+
+< fr: Outil de Bricolage et Jardinage
+fr: Scarificateur thermique
+code: scarificateur_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Scie (non électrique)
+code: scie_non_electrique
+
+< fr: Outil de Bricolage et Jardinage
+fr: Scie à bûches thermique
+code: scie_a_buches_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Tarière thermique
+code: tariere_thermique
+identifiant_qfdmod: 347
+
+< fr: Outil de Bricolage et Jardinage
+fr: Tenaille
+code: tenaille
+
+< fr: Outil de Bricolage et Jardinage
+fr: Tondeuse à gazon mécanique
+code: tondeuse_a_gazon
+
+< fr: Outil de Bricolage et Jardinage
+fr: Tournevis
+code: tournevis
+
+
+## Panneaux Photovoltaiques (panneaux_photovoltaiques)
+# 1 items
+
+< fr: Panneaux Photovoltaiques
+fr: Panneau photovoltaïque
+code: panneau_photovoltaique
+
+
+## Petit Electromenager (petit_electromenager)
+# 64 items
+
+< fr: Petit Electromenager
+fr: Alarme
+code: alarme
+identifiant_qfdmod: 322
+
+< fr: Petit Electromenager
+fr: Appareil à fondue
+code: appareil_a_fondue
+
+< fr: Petit Electromenager
+fr: Appareil à raclette
+code: appareil_a_raclette
+
+< fr: Petit Electromenager
+fr: Barbecue électrique
+code: barbecue_electrique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Batteur
+code: batteur
+
+< fr: Petit Electromenager
+fr: Blender
+code: blender
+
+< fr: Petit Electromenager
+fr: Bouilloire
+code: bouilloire
+
+< fr: Petit Electromenager
+fr: Cafetière
+code: cafetiere
+
+< fr: Petit Electromenager
+fr: Caméscope
+code: camescope
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Carte RFID
+code: carte_rfid
+identifiant_qfdmod: 84
+
+< fr: Petit Electromenager
+fr: Carte à puce (bancaire, de téléphone, d'identité)
+code: carte_a_puce
+identifiant_qfdmod: 85
+
+< fr: Petit Electromenager
+fr: Centrale vapeur
+code: centrale_vapeur
+
+< fr: Petit Electromenager
+fr: Chaîne hi-fi
+code: chaine_hi_fi
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Clé RFID
+code: cle_rfid
+identifiant_qfdmod: 84
+
+< fr: Petit Electromenager
+fr: Cordon
+code: cordon
+
+< fr: Petit Electromenager
+fr: Couteau électrique
+code: couteau_electrique
+
+< fr: Petit Electromenager
+fr: Câble
+code: cable
+
+< fr: Petit Electromenager
+fr: Enceinte
+code: enceinte
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Fer à friser
+code: fer_a_friser
+
+< fr: Petit Electromenager
+fr: Fer à lisser
+code: fer_a_lisser
+
+< fr: Petit Electromenager
+fr: Fer à repasser
+code: fer_a_repasser
+
+< fr: Petit Electromenager
+fr: Four micro-ondes
+code: four_micro_ondes
+identifiant_qfdmod: 226
+
+< fr: Petit Electromenager
+fr: Friteuse
+code: friteuse
+
+< fr: Petit Electromenager
+fr: Grill
+code: grill
+
+< fr: Petit Electromenager
+fr: Grille-pain
+code: grille_pain
+
+< fr: Petit Electromenager
+fr: Guirlande électrique
+code: guirlande_electrique
+identifiant_qfdmod: 181
+
+< fr: Petit Electromenager
+fr: Hachoir
+code: hachoir
+
+< fr: Petit Electromenager
+fr: Jouet télécommandé
+code: jouet_telecommande
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Jouet électronique
+code: jouet_electronique
+
+< fr: Petit Electromenager
+fr: Karcher
+code: karcher
+
+< fr: Petit Electromenager
+fr: Lampe torche
+code: lampe_torche
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Lisseur
+code: lisseur
+
+< fr: Petit Electromenager
+fr: Machine à café
+code: machine_a_cafe
+
+< fr: Petit Electromenager
+fr: Machine à coudre
+code: machine_a_coudre
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Machine à pain
+code: machine_a_pain
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Magnétoscope
+code: magnetoscope
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Matériel électrique passif (prise, adaptateur, câbles, cordons)
+code: materiel_electrique_passif
+identifiant_qfdmod: 219
+
+< fr: Petit Electromenager
+fr: Micro-ondes
+code: micro_ondes
+identifiant_qfdmod: 226
+
+< fr: Petit Electromenager
+fr: Mini-aspirateur
+code: mini_aspirateur
+
+< fr: Petit Electromenager
+fr: Mixeur
+code: mixeur
+
+< fr: Petit Electromenager
+fr: Montre mécanique
+code: montre_mecanique
+identifiant_qfdmod: 230
+
+< fr: Petit Electromenager
+fr: Multiprise
+code: multiprise
+
+< fr: Petit Electromenager
+fr: Nettoyeur haute pression
+code: nettoyeur_haute_pression
+
+< fr: Petit Electromenager
+fr: Petit Équipement Électrique et Électronique (EEE)
+code: equipement_electrique_et_electronique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Petit électroménager
+code: petit_electromenager
+identifiant_qfdmod: 265
+
+< fr: Petit Electromenager
+fr: Prise
+code: prise
+
+< fr: Petit Electromenager
+fr: Radio-réveil
+code: radio_reveil
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Rallonge électrique
+code: rallonge_electrique
+
+< fr: Petit Electromenager
+fr: Rasoir électrique
+code: rasoir_electrique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Rice-cooker
+code: rice_cooker
+
+< fr: Petit Electromenager
+fr: Robot de cuisine
+code: robot_de_cuisine
+
+< fr: Petit Electromenager
+fr: Robot-aspirateur
+code: robot_aspirateur
+identifiant_qfdmod: 299
+
+< fr: Petit Electromenager
+fr: Répondeur
+code: repondeur
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Réveil matin
+code: reveil_matin
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Scie sauteuse
+code: scie_sauteuse
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Sirène (alarme)
+code: sirene_alarme
+identifiant_qfdmod: 322
+
+< fr: Petit Electromenager
+fr: Sèche-cheveux
+code: seche_cheveux
+identifiant_qfdmod: 312
+
+< fr: Petit Electromenager
+fr: Toaster
+code: toaster
+
+< fr: Petit Electromenager
+fr: Tondeuse à barbe
+code: tondeuse_a_barbe
+
+< fr: Petit Electromenager
+fr: Télécommande
+code: telecommande
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Ventilateur
+code: ventilateur
+
+< fr: Petit Electromenager
+fr: lisseur électrique
+code: lisseur_electrique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: onduleur électrique
+code: onduleur_electrique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: épilateur électrique
+code: epilateur_electrique
+identifiant_qfdmod: 145
+
+
+## Petits Appareils Extincteurs (petits_appareils_extincteurs)
+# 1 items
+
+< fr: Petits Appareils Extincteurs
+fr: Petits appareils extincteurs (inférieurs à 2kg)
+code: petits_appareils_extincteurs
+
+
+## Pneu (pneu)
+# 1 items
+
+< fr: Pneu
+fr: Pneu de voiture / moto / scooter
+code: pneu
+identifiant_qfdmod: 275
+
+
+## Produits Chimiques Solvants (produits_chimiques_solvants)
+# 1 items
+
+< fr: Produits Chimiques Solvants
+fr: Solvants
+code: pchim_solvants
+
+
+## Produits Pyrotechniques (produits_pyrotechniques)
+# 1 items
+
+< fr: Produits Pyrotechniques
+fr: Produits pyrotechniques : fumigènes, fusées de parachute, fusées de détresse
+code: pchim_produits_pyrotechniques_fumigenes_fusee_de_parachute_fusee_de_tresse
+
+
+## Puericulture (puericulture)
+# 4 items
+
+< fr: Puericulture
+fr: Poussette
+code: poussette
+
+< fr: Puericulture
+fr: Puériculture
+code: puericulture
+
+< fr: Puericulture
+fr: Réhausseur
+code: rehausseur
+
+< fr: Puericulture
+fr: Siège Auto
+code: siege_auto
+identifiant_qfdmod: 321
+
+
+## Smartphone Tablette et Console (smartphone_tablette_et_console)
+# 5 items
+
+< fr: Smartphone Tablette et Console
+fr: Console de jeux
+code: console_de_jeux
+
+< fr: Smartphone Tablette et Console
+fr: Montre connectée
+code: montre_connectee
+
+< fr: Smartphone Tablette et Console
+fr: Smartphone
+code: smartphone
+identifiant_qfdmod: 334
+
+< fr: Smartphone Tablette et Console
+fr: Tablette (tactile)
+code: tablette_tactile
+
+< fr: Smartphone Tablette et Console
+fr: Téléphone mobile
+code: telephone_mobile
+identifiant_qfdmod: 334
+
+
+## Vaisselle (vaisselle)
+# 15 items
+
+< fr: Vaisselle
+fr: Assiette
+code: assiette
+identifiant_qfdmod: 355
+
+< fr: Vaisselle
+fr: Biberon
+code: biberon
+identifiant_qfdmod: 42
+
+< fr: Vaisselle
+fr: Bol
+code: bol
+identifiant_qfdmod: 355
+
+< fr: Vaisselle
+fr: Canif
+code: canif
+
+< fr: Vaisselle
+fr: Casserole
+code: casserole
+
+< fr: Vaisselle
+fr: Couteau de cuisine
+code: couteau_de_cuisine
+
+< fr: Vaisselle
+fr: Couverts en métal
+code: couverts_en_metal
+identifiant_qfdmod: 114
+
+< fr: Vaisselle
+fr: Cuillère
+code: cuillere
+
+< fr: Vaisselle
+fr: Fourchette
+code: fourchette
+
+< fr: Vaisselle
+fr: Gourde
+code: gourde
+identifiant_qfdmod: 176
+
+< fr: Vaisselle
+fr: Mug
+code: mug
+identifiant_qfdmod: 355
+
+< fr: Vaisselle
+fr: Tasse
+code: tasse
+identifiant_qfdmod: 355
+
+< fr: Vaisselle
+fr: Ustensile de cuisine
+code: ustensile_de_cuisine
+identifiant_qfdmod: 354
+
+< fr: Vaisselle
+fr: Vaisselle
+code: vaisselle
+identifiant_qfdmod: 355
+
+< fr: Vaisselle
+fr: Verre à boire
+code: verre_a_boire
+identifiant_qfdmod: 362
+
+
+## Velo (velo)
+# 7 items
+
+< fr: Velo
+fr: Bicyclette
+code: bicyclette
+identifiant_qfdmod: 358
+
+< fr: Velo
+fr: Bécane (biclou)
+code: becane_biclou
+identifiant_qfdmod: 358
+
+< fr: Velo
+fr: Cycle
+code: cycle
+identifiant_qfdmod: 358
+
+< fr: Velo
+fr: Tandem
+code: tandem
+identifiant_qfdmod: 358
+
+< fr: Velo
+fr: Vélo
+code: velo
+
+< fr: Velo
+fr: vélo - hors vélo électrique
+code: velo_hors_velo_electrique
+identifiant_qfdmod: 358
+
+< fr: Velo
+fr: vélo musculaire
+code: velo_musculaire
+identifiant_qfdmod: 358
+
+
+## Vetement (vetement)
+# 47 items
+
+< fr: Vetement
+fr: Anorak
+code: anorak
+identifiant_qfdmod: 274
+
+< fr: Vetement
+fr: Bermuda
+code: bermuda
+
+< fr: Vetement
+fr: Bonnet
+code: bonnet
+
+< fr: Vetement
+fr: Boxer
+code: boxer
+
+< fr: Vetement
+fr: Béret
+code: beret
+identifiant_qfdmod: 398
+
+< fr: Vetement
+fr: Caban
+code: caban
+
+< fr: Vetement
+fr: Caleçon
+code: calecon
+
+< fr: Vetement
+fr: Casquette
+code: casquette
+identifiant_qfdmod: 398
+
+< fr: Vetement
+fr: Chapeau
+code: chapeau
+identifiant_qfdmod: 398
+
+< fr: Vetement
+fr: Chaussettes
+code: chaussettes
+
+< fr: Vetement
+fr: Chemise
+code: chemise
+
+< fr: Vetement
+fr: Collant
+code: collant
+
+< fr: Vetement
+fr: Costume
+code: costume
+
+< fr: Vetement
+fr: Couvre-chef
+code: couvre_chef
+identifiant_qfdmod: 398
+
+< fr: Vetement
+fr: Culotte
+code: culotte
+
+< fr: Vetement
+fr: Doudoune
+code: doudoune
+identifiant_qfdmod: 274
+
+< fr: Vetement
+fr: Duffle-coat
+code: duffle_coat
+
+< fr: Vetement
+fr: Echarpe
+code: echarpe
+
+< fr: Vetement
+fr: Foulard
+code: foulard
+
+< fr: Vetement
+fr: Fourrure
+code: fourrure
+
+< fr: Vetement
+fr: Gants
+code: gants
+
+< fr: Vetement
+fr: Gilet
+code: gilet
+
+< fr: Vetement
+fr: Jean
+code: jean
+identifiant_qfdmod: 192
+
+< fr: Vetement
+fr: Jupe
+code: jupe
+
+< fr: Vetement
+fr: Legging
+code: legging
+
+< fr: Vetement
+fr: Lingerie
+code: lingerie
+
+< fr: Vetement
+fr: Maillot de bain
+code: maillot_de_bain
+
+< fr: Vetement
+fr: Manteau
+code: manteau
+
+< fr: Vetement
+fr: Mitaine
+code: mitaine
+
+< fr: Vetement
+fr: Mouffle
+code: mouffle
+
+< fr: Vetement
+fr: Pantacourt
+code: pantacourt
+
+< fr: Vetement
+fr: Pantalon
+code: pantalon
+
+< fr: Vetement
+fr: Peignoir
+code: peignoir
+
+< fr: Vetement
+fr: Plumes (et duvets)
+code: plumes_et_duvets
+identifiant_qfdmod: 274
+
+< fr: Vetement
+fr: Polo
+code: polo
+
+< fr: Vetement
+fr: Pull
+code: pull
+
+< fr: Vetement
+fr: Robe
+code: robe
+
+< fr: Vetement
+fr: Short
+code: short
+
+< fr: Vetement
+fr: Slip
+code: slip
+
+< fr: Vetement
+fr: Sous-vêtement
+code: sous_vetement
+
+< fr: Vetement
+fr: Soutien-gorge
+code: soutien_gorge
+
+< fr: Vetement
+fr: Sweat
+code: sweat
+
+< fr: Vetement
+fr: T-shirt
+code: t_shirt
+
+< fr: Vetement
+fr: Toque
+code: toque
+identifiant_qfdmod: 398
+
+< fr: Vetement
+fr: Trench
+code: trench
+
+< fr: Vetement
+fr: Veste
+code: veste
+
+< fr: Vetement
+fr: Vêtements
+code: vetement
