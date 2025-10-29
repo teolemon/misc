@@ -1,0 +1,47 @@
+# Example section from the generated taxonomy
+
+## From the Categories section:
+
+#
+fr: Petit Electromenager
+code: petit_electromenager
+# Items in this category: 64
+
+## From the Items section:
+
+## Petit Electromenager (petit_electromenager)
+# 64 items
+
+< fr: Petit Electromenager
+fr: Appareil à fondue
+code: appareil_a_fondue
+
+< fr: Petit Electromenager
+fr: Barbecue électrique
+code: barbecue_electrique
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Cafetière
+code: cafetiere
+identifiant_qfdmod: 73
+
+< fr: Petit Electromenager
+fr: Caméscope
+code: camescope
+identifiant_qfdmod: 145
+
+< fr: Petit Electromenager
+fr: Carte RFID
+code: carte_rfid
+identifiant_qfdmod: 84
+
+## Explanation:
+
+- Categories are listed with their French name (fr:) and code
+- Each category shows how many items it contains
+- Items are listed under their parent category using "< fr: Parent Category"
+- Each item has:
+  - fr: French label
+  - code: unique identifier
+  - identifiant_qfdmod: QFDMO ID (when available)
