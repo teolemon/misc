@@ -79,9 +79,10 @@ def generate_taxonomy_header() -> str:
 # https://www.ecosystem.eco/fr/qfdmo
 #
 # Format:
-# - Each category starts with its code
-# - fr: French name (libelle from the data)
-# - Items under each category are listed with their codes
+# - Each category and item has:
+#   - fr: French name (libelle from the data)
+#   - qfdmo_name_fr: QFDMO code identifier
+#   - identifiant_qfdmo: QFDMO numeric identifier (when available)
 # - Parent-child relationships use < fr: Parent Category
 #
 
@@ -108,7 +109,7 @@ def generate_taxonomy(category_items: Dict, all_categories: Set) -> str:
         # Category header
         output.append(f"#")
         output.append(f"fr: {format_category_name(category_code)}")
-        output.append(f"code: {category_code}")
+        output.append(f"qfdmo_name_fr: {category_code}")
         
         # List items in this category
         items = category_items.get(category_code, [])
@@ -154,9 +155,9 @@ def generate_items_list(category_items: Dict, all_categories: Set) -> str:
             
             output.append(f"< fr: {format_category_name(category_code)}")
             output.append(f"fr: {libelle}")
-            output.append(f"code: {code}")
+            output.append(f"qfdmo_name_fr: {code}")
             if item_id is not None:
-                output.append(f"identifiant_qfdmod: {item_id}")
+                output.append(f"identifiant_qfdmo: {item_id}")
             output.append("")
     
     return '\n'.join(output)

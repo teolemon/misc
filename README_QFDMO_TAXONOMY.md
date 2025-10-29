@@ -43,7 +43,7 @@ The generated taxonomy file follows a hierarchical format:
 # Category sections
 #
 fr: Category Name
-code: category_code
+qfdmo_name_fr: category_code
 # Items in this category: N
 
 # Detailed items list
@@ -52,8 +52,8 @@ code: category_code
 
 < fr: Parent Category
 fr: Item Name
-code: item_code
-identifiant_qfdmod: ID
+qfdmo_name_fr: item_code
+identifiant_qfdmo: ID
 ```
 
 ## Data Structure
@@ -75,8 +75,8 @@ identifiant_qfdmod: ID
 ### Output Fields
 
 - `fr:` - French label/name
-- `code:` - Unique identifier code
-- `identifiant_qfdmod:` - QFDMO identifier (optional)
+- `qfdmo_name_fr:` - QFDMO code identifier
+- `identifiant_qfdmo:` - QFDMO numeric identifier (optional)
 - `< fr:` - Parent category reference
 
 ## Statistics
